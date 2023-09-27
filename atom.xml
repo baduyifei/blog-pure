@@ -3,11 +3,11 @@
   <title>八度易飞</title>
   
   
-  <link href="https://baduyifei.github.io/blog-pure/atom.xml" rel="self"/>
+  <link href="https://blog.baduyifei.com/atom.xml" rel="self"/>
   
-  <link href="https://baduyifei.github.io/blog-pure/"/>
+  <link href="https://blog.baduyifei.com/"/>
   <updated>2023-09-17T00:00:00.000Z</updated>
-  <id>https://baduyifei.github.io/blog-pure/</id>
+  <id>https://blog.baduyifei.com/</id>
   
   <author>
     <name>baduyifei</name>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>我的音乐列表</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230913-my-playlist-abbrlink/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230913-my-playlist-abbrlink/</id>
+    <link href="https://blog.baduyifei.com/p/20230913-my-playlist-abbrlink/"/>
+    <id>https://blog.baduyifei.com/p/20230913-my-playlist-abbrlink/</id>
     <published>2023-09-17T00:00:00.000Z</published>
     <updated>2023-09-17T00:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的音乐列表"><a href="#我的音乐列表" class="headerlink" title="我的音乐列表"></a>我的音乐列表</h1><p>王菲：如愿</p><p>萨顶顶：左手指月</p><p>张学友：烦恼歌</p><p>李建：月半弯</p><p>汉堡黄：滥俗的歌</p><p>王贰浪：小镇英雄青年</p><p>孙耀威：爱的故事</p><p>唐伯虎Annie：青丝</p><p>世间美好与你环环相扣</p><p>球球：0919、宠爱吖</p><p>董小姐日语版</p><p>GALA：追梦赤子心</p><p>萌萌哒天团：动心</p><p>温柔乡</p><p>去你的撩妹即正义</p><p>陈琳：爱就爱了</p><p>草蜢：失恋阵线联盟</p><p>夏天：小宝贝</p><p>罗大佑：恋曲1990</p><p>谢雨欣：仰望</p><p>周深：胆小鬼</p><p>陈百强：偏偏喜欢你</p><p>蔡卓妍：明明</p><p>乌达木：梦中的额吉</p><p>叶倩文：潇洒走一回</p><p>谢金燕：男欢女爱</p><p>洪金宝：爷爷的情书</p><p>宇多田光：prisoner of Love</p><p>王若琳：Lomon tree</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的音乐列表"><a href="#我的音乐列表" class="headerlink" title="我的音乐列表"></a>我的音乐列表</h1><p>王菲：如愿</p><p>萨顶顶：左手指月</p><p>张学友：烦恼歌</p><p>李建：月半弯</p><p>汉堡黄：滥俗的歌</p><p>王贰浪：小镇英雄青年</p><p>孙耀威：爱的故事</p><p>唐伯虎Annie：青丝</p><p>世间美好与你环环相扣</p><p>球球：0919、宠爱吖</p><p>董小姐日语版</p><p>GALA：追梦赤子心</p><p>萌萌哒天团：动心</p><p>温柔乡</p><p>去你的撩妹即正义</p><p>陈琳：爱就爱了</p><p>草蜢：失恋阵线联盟</p><p>夏天：小宝贝</p><p>罗大佑：恋曲1990</p><p>谢雨欣：仰望</p><p>周深：胆小鬼</p><p>陈百强：偏偏喜欢你</p><p>蔡卓妍：明明</p><p>乌达木：梦中的额吉</p><p>叶倩文：潇洒走一回</p><p>谢金燕：男欢女爱</p><p>洪金宝：爷爷的情书</p><p>宇多田光：prisoner of Love</p><p>王若琳：Lomon tree</p>]]></content>
     
     
     <summary type="html">我的音乐列表
@@ -49,23 +49,23 @@
     
     
     
-    <category term="code" scheme="https://baduyifei.github.io/blog-pure/categories/code/"/>
+    <category term="code" scheme="https://blog.baduyifei.com/categories/code/"/>
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>mac系统「复制、拷贝、替身、软连接、硬连接」区别详解</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230914-difference-copy-softconnection-hardconnection/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230914-difference-copy-softconnection-hardconnection/</id>
+    <link href="https://blog.baduyifei.com/p/20230914-difference-copy-softconnection-hardconnection/"/>
+    <id>https://blog.baduyifei.com/p/20230914-difference-copy-softconnection-hardconnection/</id>
     <published>2023-09-14T09:24:21.000Z</published>
     <updated>2023-09-13T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="mac系统「复制、拷贝、替身、软连接、硬连接」区别详解"><a href="#mac系统「复制、拷贝、替身、软连接、硬连接」区别详解" class="headerlink" title="mac系统「复制、拷贝、替身、软连接、硬连接」区别详解"></a>mac系统「复制、拷贝、替身、软连接、硬连接」区别详解</h1>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="mac系统「复制、拷贝、替身、软连接、硬连接」区别详解"><a href="#mac系统「复制、拷贝、替身、软连接、硬连接」区别详解" class="headerlink" title="mac系统「复制、拷贝、替身、软连接、硬连接」区别详解"></a>mac系统「复制、拷贝、替身、软连接、硬连接」区别详解</h1>]]></content>
     
     
     <summary type="html">mac系统「复制、拷贝、替身、软连接、硬连接」区别详解</summary>
@@ -73,20 +73,20 @@
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>如何实现同一台电脑当中的两个文件夹同步？</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/</id>
+    <link href="https://blog.baduyifei.com/p/20230914-folder-synchronization-in-one-computer/"/>
+    <id>https://blog.baduyifei.com/p/20230914-folder-synchronization-in-one-computer/</id>
     <published>2023-09-14T09:24:21.000Z</published>
     <updated>2023-09-13T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何实现同一台电脑当中的两个文件夹同步？"><a href="#如何实现同一台电脑当中的两个文件夹同步？" class="headerlink" title="如何实现同一台电脑当中的两个文件夹同步？"></a>如何实现同一台电脑当中的两个文件夹同步？</h1><p>如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步。</p><p>如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何实现同一台电脑当中的两个文件夹同步？"><a href="#如何实现同一台电脑当中的两个文件夹同步？" class="headerlink" title="如何实现同一台电脑当中的两个文件夹同步？"></a>如何实现同一台电脑当中的两个文件夹同步？</h1><p>如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步。</p><p>如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步如何实现同一台电脑当中的两个文件夹同步</p>]]></content>
     
     
     <summary type="html">如何实现同一台电脑当中的两个文件夹同步？
@@ -95,20 +95,20 @@
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>宝藏软件汇总</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230612-my-software-summary/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230612-my-software-summary/</id>
+    <link href="https://blog.baduyifei.com/p/20230612-my-software-summary/"/>
+    <id>https://blog.baduyifei.com/p/20230612-my-software-summary/</id>
     <published>2023-06-12T09:24:21.000Z</published>
     <updated>2023-06-11T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="宝藏软件汇总"><a href="#宝藏软件汇总" class="headerlink" title="宝藏软件汇总"></a>宝藏软件汇总</h1><ol><li>知识记录：Roam Research、Notion、Notability、<del>【Evernote】</del></li><li>碎片化记录：Apple Notes、Drafts</li><li>稍后读：Readwise Reader</li><li>任务管理：Things 3</li><li>截图和贴图：Snipaste、Cleanshot X</li><li>剪辑和动画：FinalCut Pro、AE、<del>【剪映】</del></li><li>思维导图：MindNode、<del>【XMIND】</del></li><li>PDF编辑：PDF Expert</li><li>软件卸载：App Cleaner &amp; Uninstaller</li><li>电脑清理：CleanMyMac X、Tencent Lemon</li><li>文字编辑和文章书写：Typora、IA Writer</li><li>翻译软件：<em>（暂时是网易有道，没有特别满意的）</em></li><li>社交软件：微信、微博、小红书、即刻、Twitter、ins、Facebook</li><li>播客：小宇宙、喜马拉雅</li><li>学习听书：得到、樊登读书（现:帆书）</li><li>电子书：kindle、微信读书</li><li>代码编写：IDEA、VScode</li><li>数据库：Navicat Premium、RDM、MongoDB</li><li>终端：iTerm2</li><li>原型与设计：Axure、Figma、<del>【Sketch】</del></li><li>模版作图：Canva、稿定、（创客帖、图怪兽）</li><li>音乐：Spotify、LX Music、网易云音乐</li><li>协同工作：Slack、飞书</li><li>云盘：Google Drive、坚果云、百度网盘、<del>Dropbox</del></li><li>电脑端番茄钟：Smart Countdown Timer</li></ol>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="宝藏软件汇总"><a href="#宝藏软件汇总" class="headerlink" title="宝藏软件汇总"></a>宝藏软件汇总</h1><ol><li>知识记录：Roam Research、Notion、Notability、<del>【Evernote】</del></li><li>碎片化记录：Apple Notes、Drafts</li><li>稍后读：Readwise Reader</li><li>任务管理：Things 3</li><li>截图和贴图：Snipaste、Cleanshot X</li><li>剪辑和动画：FinalCut Pro、AE、<del>【剪映】</del></li><li>思维导图：MindNode、<del>【XMIND】</del></li><li>PDF编辑：PDF Expert</li><li>软件卸载：App Cleaner &amp; Uninstaller</li><li>电脑清理：CleanMyMac X、Tencent Lemon</li><li>文字编辑和文章书写：Typora、IA Writer</li><li>翻译软件：<em>（暂时是网易有道，没有特别满意的）</em></li><li>社交软件：微信、微博、小红书、即刻、Twitter、ins、Facebook</li><li>播客：小宇宙、喜马拉雅</li><li>学习听书：得到、樊登读书（现:帆书）</li><li>电子书：kindle、微信读书</li><li>代码编写：IDEA、VScode</li><li>数据库：Navicat Premium、RDM、MongoDB</li><li>终端：iTerm2</li><li>原型与设计：Axure、Figma、<del>【Sketch】</del></li><li>模版作图：Canva、稿定、（创客帖、图怪兽）</li><li>音乐：Spotify、LX Music、网易云音乐</li><li>协同工作：Slack、飞书</li><li>云盘：Google Drive、坚果云、百度网盘、<del>Dropbox</del></li><li>电脑端番茄钟：Smart Countdown Timer</li></ol>]]></content>
     
     
     <summary type="html">宝藏软件汇总
@@ -123,12 +123,12 @@
   
   <entry>
     <title>Chrome浏览器宝藏插件和脚本汇总</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230611-chrome-software-summary/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230611-chrome-software-summary/</id>
+    <link href="https://blog.baduyifei.com/p/20230611-chrome-software-summary/"/>
+    <id>https://blog.baduyifei.com/p/20230611-chrome-software-summary/</id>
     <published>2023-06-11T09:07:21.000Z</published>
     <updated>2023-06-10T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Chrome浏览器宝藏插件和脚本汇总"><a href="#Chrome浏览器宝藏插件和脚本汇总" class="headerlink" title="Chrome浏览器宝藏插件和脚本汇总"></a>Chrome浏览器宝藏插件和脚本汇总</h1>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Chrome浏览器宝藏插件和脚本汇总"><a href="#Chrome浏览器宝藏插件和脚本汇总" class="headerlink" title="Chrome浏览器宝藏插件和脚本汇总"></a>Chrome浏览器宝藏插件和脚本汇总</h1>]]></content>
     
     
     <summary type="html">Chrome浏览器宝藏插件和脚本汇总</summary>
@@ -136,20 +136,20 @@
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>iPhone宝藏软件汇总</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230610-phone-software-summary/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230610-phone-software-summary/</id>
+    <link href="https://blog.baduyifei.com/p/20230610-phone-software-summary/"/>
+    <id>https://blog.baduyifei.com/p/20230610-phone-software-summary/</id>
     <published>2023-06-10T09:24:21.000Z</published>
     <updated>2023-06-09T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="iPhone宝藏软件汇总"><a href="#iPhone宝藏软件汇总" class="headerlink" title="iPhone宝藏软件汇总"></a>iPhone宝藏软件汇总</h1><p>待定。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="iPhone宝藏软件汇总"><a href="#iPhone宝藏软件汇总" class="headerlink" title="iPhone宝藏软件汇总"></a>iPhone宝藏软件汇总</h1><p>待定。</p>]]></content>
     
     
     <summary type="html">iPhone宝藏软件汇总
@@ -158,20 +158,20 @@
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>MacOS系统电脑宝藏软件汇总</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230610-mac-software-summary/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230610-mac-software-summary/</id>
+    <link href="https://blog.baduyifei.com/p/20230610-mac-software-summary/"/>
+    <id>https://blog.baduyifei.com/p/20230610-mac-software-summary/</id>
     <published>2023-06-10T08:00:00.000Z</published>
     <updated>2023-06-09T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="MacOS系统电脑宝藏软件汇总"><a href="#MacOS系统电脑宝藏软件汇总" class="headerlink" title="MacOS系统电脑宝藏软件汇总"></a>MacOS系统电脑宝藏软件汇总</h1><blockquote><p>不断汇总，持续更新。</p></blockquote><h2 id="图片处理相关软件"><a href="#图片处理相关软件" class="headerlink" title="图片处理相关软件"></a>图片处理相关软件</h2><h4 id="图片无损放大软件：Upscayl-图片清晰度"><a href="#图片无损放大软件：Upscayl-图片清晰度" class="headerlink" title="图片无损放大软件：Upscayl (图片清晰度)"></a>图片无损放大软件：Upscayl (图片清晰度)</h4><ul><li>免费，开源</li><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091614799.png" alt="img"></li></ul><h4 id="图片压缩软件：-图片大小"><a href="#图片压缩软件：-图片大小" class="headerlink" title="图片压缩软件：(图片大小)"></a>图片压缩软件：(图片大小)</h4><h4 id="图片抠图软件：一键去背"><a href="#图片抠图软件：一键去背" class="headerlink" title="图片抠图软件：一键去背"></a>图片抠图软件：一键去背</h4><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100110662.png" alt="image-20230610011036625"></p><h4 id="Gif-录制软件"><a href="#Gif-录制软件" class="headerlink" title="Gif 录制软件"></a>Gif 录制软件</h4><ul><li>gifox(付费)</li><li>GIPHY Capture</li><li>Kap(开源)</li><li>GIF Brewrry</li><li>其他集成在其他视频录屏软件中<ul><li>QuickTime</li><li>iShot</li><li>CleanShot X</li><li>其他录屏软件</li></ul></li></ul><h2 id="图床软件"><a href="#图床软件" class="headerlink" title="图床软件"></a>图床软件</h2><ul><li>PicGo（开源，免费）</li><li>iPic</li><li>uPic</li></ul><h2 id="PDF-处理相关软件"><a href="#PDF-处理相关软件" class="headerlink" title="PDF 处理相关软件"></a>PDF 处理相关软件</h2><h2 id="搜索相关软件"><a href="#搜索相关软件" class="headerlink" title="搜索相关软件"></a>搜索相关软件</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100028869.png" alt="image-20230610002858812"></p><h2 id="倒计时-x2F-番茄钟相关软件"><a href="#倒计时-x2F-番茄钟相关软件" class="headerlink" title="倒计时&#x2F;番茄钟相关软件"></a>倒计时&#x2F;番茄钟相关软件</h2><h2 id="视频处理相关：录屏、压缩等"><a href="#视频处理相关：录屏、压缩等" class="headerlink" title="视频处理相关：录屏、压缩等"></a>视频处理相关：录屏、压缩等</h2><h2 id="显示快捷键"><a href="#显示快捷键" class="headerlink" title="显示快捷键"></a>显示快捷键</h2><h2 id="代理软件"><a href="#代理软件" class="headerlink" title="代理软件"></a>代理软件</h2><ol><li>Shadowsocks（小飞机）</li><li>Shadowrocket（小火箭）</li><li>Quantumult</li><li>ClashX Pro（小猫）</li><li>Surge</li><li>V2rayU</li><li>Ghelper</li><li>Lantern</li></ol><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100051257.png" alt="image-20230610005143221"></p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100052018.png" alt="image-20230610005202984"></p><h2 id="网盘"><a href="#网盘" class="headerlink" title="网盘"></a>网盘</h2><p>Google Drive：本地重要文件增量备份</p><p>坚果云：本地重要文件增量备份</p><p>百度网盘：网盘资料</p><h2 id="文件批量重命名"><a href="#文件批量重命名" class="headerlink" title="文件批量重命名"></a>文件批量重命名</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100101367.png" alt="image-20230610010149327"></p><h2 id="复制粘贴"><a href="#复制粘贴" class="headerlink" title="复制粘贴"></a>复制粘贴</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100103312.png" alt="image-20230610010332276"></p><h2 id="浏览器"><a href="#浏览器" class="headerlink" title="浏览器"></a>浏览器</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100105480.png" alt="image-20230610010509437"></p><p>☑️✅</p><h2 id="开发"><a href="#开发" class="headerlink" title="开发"></a>开发</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100106010.png" alt="image-20230610010615974"></p><h2 id="文件内容全局搜索"><a href="#文件内容全局搜索" class="headerlink" title="文件内容全局搜索"></a>文件内容全局搜索</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100109132.png" alt="image-20230610010913091"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="MacOS系统电脑宝藏软件汇总"><a href="#MacOS系统电脑宝藏软件汇总" class="headerlink" title="MacOS系统电脑宝藏软件汇总"></a>MacOS系统电脑宝藏软件汇总</h1><blockquote><p>不断汇总，持续更新。</p></blockquote><h2 id="图片处理相关软件"><a href="#图片处理相关软件" class="headerlink" title="图片处理相关软件"></a>图片处理相关软件</h2><h4 id="图片无损放大软件：Upscayl-图片清晰度"><a href="#图片无损放大软件：Upscayl-图片清晰度" class="headerlink" title="图片无损放大软件：Upscayl (图片清晰度)"></a>图片无损放大软件：Upscayl (图片清晰度)</h4><ul><li>免费，开源</li><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091614799.png" alt="img"></li></ul><h4 id="图片压缩软件：-图片大小"><a href="#图片压缩软件：-图片大小" class="headerlink" title="图片压缩软件：(图片大小)"></a>图片压缩软件：(图片大小)</h4><h4 id="图片抠图软件：一键去背"><a href="#图片抠图软件：一键去背" class="headerlink" title="图片抠图软件：一键去背"></a>图片抠图软件：一键去背</h4><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100110662.png" alt="image-20230610011036625"></p><h4 id="Gif-录制软件"><a href="#Gif-录制软件" class="headerlink" title="Gif 录制软件"></a>Gif 录制软件</h4><ul><li>gifox(付费)</li><li>GIPHY Capture</li><li>Kap(开源)</li><li>GIF Brewrry</li><li>其他集成在其他视频录屏软件中<ul><li>QuickTime</li><li>iShot</li><li>CleanShot X</li><li>其他录屏软件</li></ul></li></ul><h2 id="图床软件"><a href="#图床软件" class="headerlink" title="图床软件"></a>图床软件</h2><ul><li>PicGo（开源，免费）</li><li>iPic</li><li>uPic</li></ul><h2 id="PDF-处理相关软件"><a href="#PDF-处理相关软件" class="headerlink" title="PDF 处理相关软件"></a>PDF 处理相关软件</h2><h2 id="搜索相关软件"><a href="#搜索相关软件" class="headerlink" title="搜索相关软件"></a>搜索相关软件</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100028869.png" alt="image-20230610002858812"></p><h2 id="倒计时-x2F-番茄钟相关软件"><a href="#倒计时-x2F-番茄钟相关软件" class="headerlink" title="倒计时&#x2F;番茄钟相关软件"></a>倒计时&#x2F;番茄钟相关软件</h2><h2 id="视频处理相关：录屏、压缩等"><a href="#视频处理相关：录屏、压缩等" class="headerlink" title="视频处理相关：录屏、压缩等"></a>视频处理相关：录屏、压缩等</h2><h2 id="显示快捷键"><a href="#显示快捷键" class="headerlink" title="显示快捷键"></a>显示快捷键</h2><h2 id="代理软件"><a href="#代理软件" class="headerlink" title="代理软件"></a>代理软件</h2><ol><li>Shadowsocks（小飞机）</li><li>Shadowrocket（小火箭）</li><li>Quantumult</li><li>ClashX Pro（小猫）</li><li>Surge</li><li>V2rayU</li><li>Ghelper</li><li>Lantern</li></ol><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100051257.png" alt="image-20230610005143221"></p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100052018.png" alt="image-20230610005202984"></p><h2 id="网盘"><a href="#网盘" class="headerlink" title="网盘"></a>网盘</h2><p>Google Drive：本地重要文件增量备份</p><p>坚果云：本地重要文件增量备份</p><p>百度网盘：网盘资料</p><h2 id="文件批量重命名"><a href="#文件批量重命名" class="headerlink" title="文件批量重命名"></a>文件批量重命名</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100101367.png" alt="image-20230610010149327"></p><h2 id="复制粘贴"><a href="#复制粘贴" class="headerlink" title="复制粘贴"></a>复制粘贴</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100103312.png" alt="image-20230610010332276"></p><h2 id="浏览器"><a href="#浏览器" class="headerlink" title="浏览器"></a>浏览器</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100105480.png" alt="image-20230610010509437"></p><p>☑️✅</p><h2 id="开发"><a href="#开发" class="headerlink" title="开发"></a>开发</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100106010.png" alt="image-20230610010615974"></p><h2 id="文件内容全局搜索"><a href="#文件内容全局搜索" class="headerlink" title="文件内容全局搜索"></a>文件内容全局搜索</h2><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100109132.png" alt="image-20230610010913091"></p>]]></content>
     
     
     <summary type="html">MacOS系统电脑宝藏软件汇总
@@ -188,20 +188,20 @@
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>Mac版微信如何设置使用默认浏览器打开网页链接</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230609-mac-wechat-browser/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230609-mac-wechat-browser/</id>
+    <link href="https://blog.baduyifei.com/p/20230609-mac-wechat-browser/"/>
+    <id>https://blog.baduyifei.com/p/20230609-mac-wechat-browser/</id>
     <published>2023-06-09T00:07:21.000Z</published>
     <updated>2023-06-08T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Mac版微信如何设置使用默认浏览器打开网页链接"><a href="#Mac版微信如何设置使用默认浏览器打开网页链接" class="headerlink" title="Mac版微信如何设置使用默认浏览器打开网页链接"></a>Mac版微信如何设置使用默认浏览器打开网页链接</h1><p>Mac 端微信更新后，每次打开聊天网页链接都会用微信内置浏览器打开。一些需要登录的网页就需要重复登陆，需要代理的网页也打不开，点击右侧三个点可以解决，但是每次都这样操作就很麻烦。</p><p>所以，可以修改 Mac 微信聊天网页的打开方式：</p><p>我目前的微信版本是：3.8.0</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091710495.png" alt="image-20230609171013454"></p><h2 id="操作方法："><a href="#操作方法：" class="headerlink" title="操作方法："></a>操作方法：</h2><ol><li>在微信搜索框输入： <code>:recover</code>（注意含英文冒号）；</li><li>进入该模式后，在弹出的『微信修复工具』窗口勾选「使用默认浏览器打开链接」选项；<br>搞定！</li></ol><p>📢遗憾的是，文本链接可以使用电脑默认浏览器打开，但是微信聊天内的微信公众号文章和视频号依然会使用内置浏览器打开。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091716126.png" alt="image-20230609171659076"></p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091703275.png" alt="image-20230609165545405"></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>看 <a href="https://v2ex.com/t/930230">V 站</a> 有 V 友说，如果是 3.7.0 版本，目前地址形式的网页链接都是系统默认浏览器打开的，可想见 Apple 开放  sideloading 之后群魔乱舞的样子了。</p><p>所以如果你正在用的是 3.7.0 版本的微信，暂时还是不要更新了。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="Mac版微信如何设置使用默认浏览器打开网页链接"><a href="#Mac版微信如何设置使用默认浏览器打开网页链接" class="headerlink" title="Mac版微信如何设置使用默认浏览器打开网页链接"></a>Mac版微信如何设置使用默认浏览器打开网页链接</h1><p>Mac 端微信更新后，每次打开聊天网页链接都会用微信内置浏览器打开。一些需要登录的网页就需要重复登陆，需要代理的网页也打不开，点击右侧三个点可以解决，但是每次都这样操作就很麻烦。</p><p>所以，可以修改 Mac 微信聊天网页的打开方式：</p><p>我目前的微信版本是：3.8.0</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091710495.png" alt="image-20230609171013454"></p><h2 id="操作方法："><a href="#操作方法：" class="headerlink" title="操作方法："></a>操作方法：</h2><ol><li>在微信搜索框输入： <code>:recover</code>（注意含英文冒号）；</li><li>进入该模式后，在弹出的『微信修复工具』窗口勾选「使用默认浏览器打开链接」选项；<br>搞定！</li></ol><p>📢遗憾的是，文本链接可以使用电脑默认浏览器打开，但是微信聊天内的微信公众号文章和视频号依然会使用内置浏览器打开。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091716126.png" alt="image-20230609171659076"></p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091703275.png" alt="image-20230609165545405"></p><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2><p>看 <a href="https://v2ex.com/t/930230">V 站</a> 有 V 友说，如果是 3.7.0 版本，目前地址形式的网页链接都是系统默认浏览器打开的，可想见 Apple 开放  sideloading 之后群魔乱舞的样子了。</p><p>所以如果你正在用的是 3.7.0 版本的微信，暂时还是不要更新了。</p>]]></content>
     
     
     <summary type="html">Mac版微信如何设置使用默认浏览器打开网页链接
@@ -210,20 +210,20 @@ Mac 端微信更新后，每次打开聊天网页链接都会用微信内置浏�
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>美剧《权力的游戏》守夜人誓词</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230608-night-watcher-swear/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230608-night-watcher-swear/</id>
+    <link href="https://blog.baduyifei.com/p/20230608-night-watcher-swear/"/>
+    <id>https://blog.baduyifei.com/p/20230608-night-watcher-swear/</id>
     <published>2023-06-08T00:07:21.000Z</published>
     <updated>2023-06-07T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="美剧《权力的游戏》守夜人誓词"><a href="#美剧《权力的游戏》守夜人誓词" class="headerlink" title="美剧《权力的游戏》守夜人誓词"></a>美剧《权力的游戏》守夜人誓词</h1><p>今天偶然看到一段誓词，瞬间被文字的力量震撼到了。尽管没有声音，没有图片，没有画面，但仅寥寥数语就把人的心灵撩拨起来了。</p><p>这是《权力的游戏》里守夜人誓词 。守夜人是一群在维斯特洛大陆犯下滔天罪行的人，亦或是被家族抛弃放弃人生的人，他们来到绝境长城之后，一生就只剩下一个目的：全力阻止北方野人与异鬼的入侵。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091638490.png"></p><p><strong>守夜人誓词：</strong></p><p><strong>长夜将至，我从今开始守望，至死方休。我将不娶妻，不封地，不生子。我将不戴宝冠，不争荣宠。我将尽忠职守，生死于斯。</strong></p><p><strong>我是黑暗中的利剑，长城上的守卫，抵御寒冷的烈焰，破晓时分的光线，唤醒眠者的号角，守护王国的坚盾。</strong></p><p><strong>我将生命与荣耀献给守夜人，今夜如此，夜夜皆然。</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Night watcher swear: </span><br><span class="line"></span><br><span class="line">Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands, father no children. I shall wear no crowns and win no glory. I shall live and die at my post. </span><br><span class="line"></span><br><span class="line">I am the sword in the darkness. I am the watcher on the walls. I am the fire that burns against the cold, the light that wakes the sleepers, the shield that guards the realms of men. </span><br><span class="line"></span><br><span class="line">I pledge my life and honor to the Night&#x27;s Watch, for this night, and all the nights to come.</span><br></pre></td></tr></table></figure><p> ref:<a href="https://www.zhihu.com/question/23503398">https://www.zhihu.com/question/23503398</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="美剧《权力的游戏》守夜人誓词"><a href="#美剧《权力的游戏》守夜人誓词" class="headerlink" title="美剧《权力的游戏》守夜人誓词"></a>美剧《权力的游戏》守夜人誓词</h1><p>今天偶然看到一段誓词，瞬间被文字的力量震撼到了。尽管没有声音，没有图片，没有画面，但仅寥寥数语就把人的心灵撩拨起来了。</p><p>这是《权力的游戏》里守夜人誓词 。守夜人是一群在维斯特洛大陆犯下滔天罪行的人，亦或是被家族抛弃放弃人生的人，他们来到绝境长城之后，一生就只剩下一个目的：全力阻止北方野人与异鬼的入侵。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306091638490.png"></p><p><strong>守夜人誓词：</strong></p><p><strong>长夜将至，我从今开始守望，至死方休。我将不娶妻，不封地，不生子。我将不戴宝冠，不争荣宠。我将尽忠职守，生死于斯。</strong></p><p><strong>我是黑暗中的利剑，长城上的守卫，抵御寒冷的烈焰，破晓时分的光线，唤醒眠者的号角，守护王国的坚盾。</strong></p><p><strong>我将生命与荣耀献给守夜人，今夜如此，夜夜皆然。</strong></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Night watcher swear: </span><br><span class="line"></span><br><span class="line">Night gathers, and now my watch begins. It shall not end until my death. I shall take no wife, hold no lands, father no children. I shall wear no crowns and win no glory. I shall live and die at my post. </span><br><span class="line"></span><br><span class="line">I am the sword in the darkness. I am the watcher on the walls. I am the fire that burns against the cold, the light that wakes the sleepers, the shield that guards the realms of men. </span><br><span class="line"></span><br><span class="line">I pledge my life and honor to the Night&#x27;s Watch, for this night, and all the nights to come.</span><br></pre></td></tr></table></figure><p> ref:<a href="https://www.zhihu.com/question/23503398">https://www.zhihu.com/question/23503398</a></p>]]></content>
     
     
     <summary type="html">美剧《权力的游戏》守夜人誓词
@@ -234,20 +234,20 @@ Mac 端微信更新后，每次打开聊天网页链接都会用微信内置浏�
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>总结国内和国外的个人博客</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230605-summarize-personal-blogs/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230605-summarize-personal-blogs/</id>
+    <link href="https://blog.baduyifei.com/p/20230605-summarize-personal-blogs/"/>
+    <id>https://blog.baduyifei.com/p/20230605-summarize-personal-blogs/</id>
     <published>2023-06-04T17:06:00.000Z</published>
     <updated>2023-06-04T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="总结国内和国外的个人博客"><a href="#总结国内和国外的个人博客" class="headerlink" title="总结国内和国外的个人博客"></a>总结国内和国外的个人博客</h1><table><thead><tr><th></th><th></th><th><strong>国内</strong></th><th></th></tr></thead><tbody><tr><td>1、</td><td>王佩</td><td>王佩白板报</td><td><a href="https://wangpei.me/">https://wangpei.me/</a><br /><a href="https://wangpei.net/">https://wangpei.net</a><br /><a href="https://baibanbao.net/">https://baibanbao.net</a></td></tr><tr><td>2、</td><td>happy xiao</td><td></td><td><a href="https://happyxiao.com/">https://happyxiao.com/</a></td></tr><tr><td>3、</td><td>少楠&#x2F;产品沉思录</td><td>产品沉思录是2016年底我送给自己的三十岁生日礼物</td><td><a href="https://www.pmthinking.com/">https://www.pmthinking.com/</a></td></tr><tr><td>4、</td><td>航通社</td><td>航通社提供原创科技新闻观点</td><td><a href="https://lishuhang.me/">https://lishuhang.me/</a></td></tr><tr><td>5、</td><td>Shidenggui</td><td>元思笔记创始人</td><td><a href="https://shidenggui.com/">https://shidenggui.com/</a></td></tr><tr><td>6、</td><td>林米</td><td>95后，Notion 中文社区负责人。</td><td><a href="https://linmi.cc/">https://linmi.cc/</a></td></tr><tr><td>7、</td><td>智识ideobook</td><td></td><td><a href="http://www.ideobook.com/archives/">http://www.ideobook.com/archives/</a></td></tr><tr><td>8、</td><td>李长太</td><td>关注omni系列的教程</td><td><a href="http://www.lichangtai.com/omnigroup/omnifocus">http://www.lichangtai.com/</a></td></tr><tr><td>9、</td><td>左子祯</td><td>figma中文社区负责人。现在就职于MasterGO</td><td><a href="https://zuozizhen.com/">https://zuozizhen.com/</a><br /><a href="https://figmachina.com/">(https://figmachina.com/)</a></td></tr><tr><td>10、</td><td>叶夕青兮</td><td>很美的一个博客，名字叫做：我的私家花园</td><td><a href="https://erl.im/">https://erl.im/</a></td></tr><tr><td>11、</td><td>Jerry’s Blog</td><td>因为Notion-faster而认识的。少楠在产品沉思录里面推荐的。</td><td><a href="https://jerryw.cn/">https://jerryw.cn/</a></td></tr><tr><td>12、</td><td>善用佳软</td><td>张玉新</td><td><a href="https://xbeta.info/">https://xbeta.info/</a></td></tr><tr><td>13、</td><td>李参培训师</td><td>培训师，专注时间管理培训</td><td><a href="http://www.lishen.me/">http://www.lishen.me/</a></td></tr><tr><td>14、</td><td>褪墨</td><td>褪墨・时间管理，个人提升，生活健康与习惯</td><td><a href="http://www.mifengtd.cn/">http://www.mifengtd.cn/</a></td></tr><tr><td>15、</td><td>战隼</td><td>read：专门研究如何有效的提升学习能力<br />write：分享各种书的思维导图笔记</td><td><a href="http://www.read.org.cn/">http://www.read.org.cn/</a><br /><a href="http://www.write.org.cn/">http://www.write.org.cn/（网站已失效）</a></td></tr><tr><td>16、</td><td>json</td><td>Jason，独立开发者，自由职业者。Klib、iPic、iText、iHosts、iPaste、iTimer 作者</td><td><a href="https://atjason.com/">https://atjason.com/</a></td></tr><tr><td>17、</td><td>奔跑中的奶酪</td><td>RunningCheese Chrome 是一款提高 Chrome 易用性的定制版浏览器</td><td><a href="https://www.runningcheese.com/">https://www.runningcheese.com/</a></td></tr><tr><td>18、</td><td>千羽的编程时光</td><td>页面真好看</td><td><a href="https://nateshao.gitee.io/">https://nateshao.gitee.io/</a></td></tr><tr><td>19、</td><td>廖雪峰的个人网站</td><td>java开发的大神网站</td><td><a href="https://www.liaoxuefeng.com/">https://www.liaoxuefeng.com/</a></td></tr><tr><td>20、</td><td>刘法</td><td>Java &amp; Web 程序员，网站做的很好看</td><td><a href="http://joylau.cn/">http://joylau.cn/</a></td></tr><tr><td>21、</td><td>邹鑫</td><td>小强升职记的作者。从2007年到现在2021年8月，一直还在更新。坚持的贼好啊。</td><td><a href="http://www.gtdlife.com/">http://www.gtdlife.com/</a></td></tr><tr><td>22、</td><td>卢松松</td><td>创业和运营的论坛性质</td><td><a href="https://lusongsong.com/">https://lusongsong.com/</a></td></tr><tr><td>23、</td><td>周金根</td><td>敏捷个人</td><td><a href="http://www.zhoujingen.cn/">http://www.zhoujingen.cn/</a><br /><a href="http://www.zhoujingen.cn/blog/">http://www.zhoujingen.cn/blog/</a><br /><a href="https://www.cnblogs.com/zhoujg/">https://www.cnblogs.com/zhoujg/</a><br /><a href="http://blog.vsharing.com/zhoujg/">http://blog.vsharing.com/zhoujg/</a></td></tr><tr><td>24、</td><td>易仁永澄</td><td>runwith.cc-tm“个人成长操作系统”系统动力分析原理</td><td><a href="http://tm.runwith.cc/read/yong-cheng-an-xiang/pgossystemdynamicanalysis">http://tm.runwith.cc/read/yong-cheng-an-xiang/pgossystemdynamicanalysis</a></td></tr><tr><td></td><td>易仁永澄</td><td>runwith.cc-成果库</td><td><a href="http://www.runwith.cc/">http://www.runwith.cc/</a></td></tr><tr><td></td><td>易仁永澄</td><td>个人网站hiddenwangcc</td><td><a href="http://blog.hiddenwangcc.com/archives">http://blog.hiddenwangcc.com/archives</a></td></tr><tr><td></td><td>易仁永澄</td><td>upwith.me-blog</td><td><a href="http://blog.upwith.me/">http://blog.upwith.me/</a></td></tr><tr><td></td><td>易仁永澄</td><td>upwith.me-bbs</td><td><a href="http://bbs.upwith.me/">http://bbs.upwith.me/</a></td></tr><tr><td></td><td>易仁永澄</td><td>年目标活动</td><td><a href="https://nianmubiao.com/">https://nianmubiao.com/</a></td></tr><tr><td></td><td>易仁永澄</td><td>做自己的ceo</td><td><a href="http://bemyceo.com/">http://bemyceo.com/</a></td></tr><tr><td>25、</td><td>笨方法学写作</td><td>陈素封</td><td><a href="https://www.cnfeat.com/archive/">https://www.cnfeat.com/archive/</a></td></tr><tr><td>26、</td><td>阳志平</td><td>开智学堂、心智工具箱、阳志平</td><td><a href="https://www.yangzhiping.com/tech/">https://www.yangzhiping.com</a></td></tr><tr><td>27、</td><td>李承璋WHY·LIAM</td><td>李承璋，数据产品经理 ，旅行、摄影和编程。<br />超级棒的博客啊</td><td><a href="https://www.naaln.com/">https://www.naaln.com/</a><br /><a href="https://blog.naaln.com/">https://blog.naaln.com/</a></td></tr><tr><td>28、</td><td>刘未鹏</td><td>刘未鹏的博客「MIND HACKS 」，更新慢，但是每篇都是干货！</td><td><a href="http://mindhacks.cn/">http://mindhacks.cn/</a></td></tr><tr><td>29、</td><td>万维钢</td><td>学而时嬉之，万维钢的个人博客</td><td><a href="https://www.geekonomics10000.com/">https://www.geekonomics10000.com/</a></td></tr><tr><td>30、</td><td>苏杰</td><td>人人都是产品经理的作者</td><td><a href="http://iamsujie.com/">http://iamsujie.com/</a></td></tr><tr><td>31、</td><td>oeasy老师</td><td>oeasy教程，刘青老师</td><td><a href="http://oeasy.org/">http://oeasy.org/</a></td></tr><tr><td>32、</td><td>费照君</td><td>前端工程师，拍照爱好者，资深梦想家。</td><td><a href="https://feizhaojun.com/">https://feizhaojun.com/</a></td></tr><tr><td></td><td></td><td><strong>国外</strong></td><td></td></tr><tr><td>1、</td><td>Andy Matuschak</td><td>ios系统工程师，提出：常青笔记</td><td><a href="https://andymatuschak.org/">https://andymatuschak.org/</a></td></tr><tr><td>2、</td><td>lifehack</td><td>生活黑客</td><td><a href="https://lifehack.org/">https://lifehack.org/</a></td></tr><tr><td>3、</td><td>lifehacker</td><td>生活黑客</td><td><a href="https://lifehacker.com/">https://lifehacker.com/</a></td></tr><tr><td>4、</td><td>will</td><td></td><td><a href="https://www.kestrelcreek.com/about">https://www.kestrelcreek.com/about</a></td></tr><tr><td>5、</td><td>Zen Habits</td><td>Zen Habits，GTD：禅宗习惯</td><td><a href="https://zenhabits.net/archives/">https://zenhabits.net/archives/</a></td></tr><tr><td>6、</td><td>zettelkasten</td><td>卢曼卡片</td><td><a href="https://zettelkasten.de/posts/">https://zettelkasten.de/posts/</a></td></tr></tbody></table><blockquote><h4 id="changelog："><a href="#changelog：" class="headerlink" title="changelog："></a><strong>changelog：</strong></h4><ul><li><p>2021.08.08 </p><ul><li><p>创建：创建该日志，目前共30个</p></li><li><p>修改：分为国内和国外，</p></li><li><p>新增：添加了Andy Matuschak的网站</p></li></ul></li><li><p>2021.08.09 </p><ul><li>新增李承璋WHY·LIAM，一个超级棒的个人博客。</li></ul></li><li><p>2021.08.10  </p><ul><li>新增oeasy老师</li></ul></li></ul></blockquote>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="总结国内和国外的个人博客"><a href="#总结国内和国外的个人博客" class="headerlink" title="总结国内和国外的个人博客"></a>总结国内和国外的个人博客</h1><table><thead><tr><th></th><th></th><th><strong>国内</strong></th><th></th></tr></thead><tbody><tr><td>1、</td><td>王佩</td><td>王佩白板报</td><td><a href="https://wangpei.me/">https://wangpei.me/</a><br /><a href="https://wangpei.net/">https://wangpei.net</a><br /><a href="https://baibanbao.net/">https://baibanbao.net</a></td></tr><tr><td>2、</td><td>happy xiao</td><td></td><td><a href="https://happyxiao.com/">https://happyxiao.com/</a></td></tr><tr><td>3、</td><td>少楠&#x2F;产品沉思录</td><td>产品沉思录是2016年底我送给自己的三十岁生日礼物</td><td><a href="https://www.pmthinking.com/">https://www.pmthinking.com/</a></td></tr><tr><td>4、</td><td>航通社</td><td>航通社提供原创科技新闻观点</td><td><a href="https://lishuhang.me/">https://lishuhang.me/</a></td></tr><tr><td>5、</td><td>Shidenggui</td><td>元思笔记创始人</td><td><a href="https://shidenggui.com/">https://shidenggui.com/</a></td></tr><tr><td>6、</td><td>林米</td><td>95后，Notion 中文社区负责人。</td><td><a href="https://linmi.cc/">https://linmi.cc/</a></td></tr><tr><td>7、</td><td>智识ideobook</td><td></td><td><a href="http://www.ideobook.com/archives/">http://www.ideobook.com/archives/</a></td></tr><tr><td>8、</td><td>李长太</td><td>关注omni系列的教程</td><td><a href="http://www.lichangtai.com/omnigroup/omnifocus">http://www.lichangtai.com/</a></td></tr><tr><td>9、</td><td>左子祯</td><td>figma中文社区负责人。现在就职于MasterGO</td><td><a href="https://zuozizhen.com/">https://zuozizhen.com/</a><br /><a href="https://figmachina.com/">(https://figmachina.com/)</a></td></tr><tr><td>10、</td><td>叶夕青兮</td><td>很美的一个博客，名字叫做：我的私家花园</td><td><a href="https://erl.im/">https://erl.im/</a></td></tr><tr><td>11、</td><td>Jerry’s Blog</td><td>因为Notion-faster而认识的。少楠在产品沉思录里面推荐的。</td><td><a href="https://jerryw.cn/">https://jerryw.cn/</a></td></tr><tr><td>12、</td><td>善用佳软</td><td>张玉新</td><td><a href="https://xbeta.info/">https://xbeta.info/</a></td></tr><tr><td>13、</td><td>李参培训师</td><td>培训师，专注时间管理培训</td><td><a href="http://www.lishen.me/">http://www.lishen.me/</a></td></tr><tr><td>14、</td><td>褪墨</td><td>褪墨・时间管理，个人提升，生活健康与习惯</td><td><a href="http://www.mifengtd.cn/">http://www.mifengtd.cn/</a></td></tr><tr><td>15、</td><td>战隼</td><td>read：专门研究如何有效的提升学习能力<br />write：分享各种书的思维导图笔记</td><td><a href="http://www.read.org.cn/">http://www.read.org.cn/</a><br /><a href="http://www.write.org.cn/">http://www.write.org.cn/（网站已失效）</a></td></tr><tr><td>16、</td><td>json</td><td>Jason，独立开发者，自由职业者。Klib、iPic、iText、iHosts、iPaste、iTimer 作者</td><td><a href="https://atjason.com/">https://atjason.com/</a></td></tr><tr><td>17、</td><td>奔跑中的奶酪</td><td>RunningCheese Chrome 是一款提高 Chrome 易用性的定制版浏览器</td><td><a href="https://www.runningcheese.com/">https://www.runningcheese.com/</a></td></tr><tr><td>18、</td><td>千羽的编程时光</td><td>页面真好看</td><td><a href="https://nateshao.gitee.io/">https://nateshao.gitee.io/</a></td></tr><tr><td>19、</td><td>廖雪峰的个人网站</td><td>java开发的大神网站</td><td><a href="https://www.liaoxuefeng.com/">https://www.liaoxuefeng.com/</a></td></tr><tr><td>20、</td><td>刘法</td><td>Java &amp; Web 程序员，网站做的很好看</td><td><a href="http://joylau.cn/">http://joylau.cn/</a></td></tr><tr><td>21、</td><td>邹鑫</td><td>小强升职记的作者。从2007年到现在2021年8月，一直还在更新。坚持的贼好啊。</td><td><a href="http://www.gtdlife.com/">http://www.gtdlife.com/</a></td></tr><tr><td>22、</td><td>卢松松</td><td>创业和运营的论坛性质</td><td><a href="https://lusongsong.com/">https://lusongsong.com/</a></td></tr><tr><td>23、</td><td>周金根</td><td>敏捷个人</td><td><a href="http://www.zhoujingen.cn/">http://www.zhoujingen.cn/</a><br /><a href="http://www.zhoujingen.cn/blog/">http://www.zhoujingen.cn/blog/</a><br /><a href="https://www.cnblogs.com/zhoujg/">https://www.cnblogs.com/zhoujg/</a><br /><a href="http://blog.vsharing.com/zhoujg/">http://blog.vsharing.com/zhoujg/</a></td></tr><tr><td>24、</td><td>易仁永澄</td><td>runwith.cc-tm“个人成长操作系统”系统动力分析原理</td><td><a href="http://tm.runwith.cc/read/yong-cheng-an-xiang/pgossystemdynamicanalysis">http://tm.runwith.cc/read/yong-cheng-an-xiang/pgossystemdynamicanalysis</a></td></tr><tr><td></td><td>易仁永澄</td><td>runwith.cc-成果库</td><td><a href="http://www.runwith.cc/">http://www.runwith.cc/</a></td></tr><tr><td></td><td>易仁永澄</td><td>个人网站hiddenwangcc</td><td><a href="http://blog.hiddenwangcc.com/archives">http://blog.hiddenwangcc.com/archives</a></td></tr><tr><td></td><td>易仁永澄</td><td>upwith.me-blog</td><td><a href="http://blog.upwith.me/">http://blog.upwith.me/</a></td></tr><tr><td></td><td>易仁永澄</td><td>upwith.me-bbs</td><td><a href="http://bbs.upwith.me/">http://bbs.upwith.me/</a></td></tr><tr><td></td><td>易仁永澄</td><td>年目标活动</td><td><a href="https://nianmubiao.com/">https://nianmubiao.com/</a></td></tr><tr><td></td><td>易仁永澄</td><td>做自己的ceo</td><td><a href="http://bemyceo.com/">http://bemyceo.com/</a></td></tr><tr><td>25、</td><td>笨方法学写作</td><td>陈素封</td><td><a href="https://www.cnfeat.com/archive/">https://www.cnfeat.com/archive/</a></td></tr><tr><td>26、</td><td>阳志平</td><td>开智学堂、心智工具箱、阳志平</td><td><a href="https://www.yangzhiping.com/tech/">https://www.yangzhiping.com</a></td></tr><tr><td>27、</td><td>李承璋WHY·LIAM</td><td>李承璋，数据产品经理 ，旅行、摄影和编程。<br />超级棒的博客啊</td><td><a href="https://www.naaln.com/">https://www.naaln.com/</a><br /><a href="https://blog.naaln.com/">https://blog.naaln.com/</a></td></tr><tr><td>28、</td><td>刘未鹏</td><td>刘未鹏的博客「MIND HACKS 」，更新慢，但是每篇都是干货！</td><td><a href="http://mindhacks.cn/">http://mindhacks.cn/</a></td></tr><tr><td>29、</td><td>万维钢</td><td>学而时嬉之，万维钢的个人博客</td><td><a href="https://www.geekonomics10000.com/">https://www.geekonomics10000.com/</a></td></tr><tr><td>30、</td><td>苏杰</td><td>人人都是产品经理的作者</td><td><a href="http://iamsujie.com/">http://iamsujie.com/</a></td></tr><tr><td>31、</td><td>oeasy老师</td><td>oeasy教程，刘青老师</td><td><a href="http://oeasy.org/">http://oeasy.org/</a></td></tr><tr><td>32、</td><td>费照君</td><td>前端工程师，拍照爱好者，资深梦想家。</td><td><a href="https://feizhaojun.com/">https://feizhaojun.com/</a></td></tr><tr><td></td><td></td><td><strong>国外</strong></td><td></td></tr><tr><td>1、</td><td>Andy Matuschak</td><td>ios系统工程师，提出：常青笔记</td><td><a href="https://andymatuschak.org/">https://andymatuschak.org/</a></td></tr><tr><td>2、</td><td>lifehack</td><td>生活黑客</td><td><a href="https://lifehack.org/">https://lifehack.org/</a></td></tr><tr><td>3、</td><td>lifehacker</td><td>生活黑客</td><td><a href="https://lifehacker.com/">https://lifehacker.com/</a></td></tr><tr><td>4、</td><td>will</td><td></td><td><a href="https://www.kestrelcreek.com/about">https://www.kestrelcreek.com/about</a></td></tr><tr><td>5、</td><td>Zen Habits</td><td>Zen Habits，GTD：禅宗习惯</td><td><a href="https://zenhabits.net/archives/">https://zenhabits.net/archives/</a></td></tr><tr><td>6、</td><td>zettelkasten</td><td>卢曼卡片</td><td><a href="https://zettelkasten.de/posts/">https://zettelkasten.de/posts/</a></td></tr></tbody></table><blockquote><h4 id="changelog："><a href="#changelog：" class="headerlink" title="changelog："></a><strong>changelog：</strong></h4><ul><li><p>2021.08.08 </p><ul><li><p>创建：创建该日志，目前共30个</p></li><li><p>修改：分为国内和国外，</p></li><li><p>新增：添加了Andy Matuschak的网站</p></li></ul></li><li><p>2021.08.09 </p><ul><li>新增李承璋WHY·LIAM，一个超级棒的个人博客。</li></ul></li><li><p>2021.08.10  </p><ul><li>新增oeasy老师</li></ul></li></ul></blockquote>]]></content>
     
     
     <summary type="html">总结国内和国外的个人博客
@@ -258,20 +258,20 @@ https://baibanbao.net2、happy xiaohtt</summary>
     
     
     
-    <category term="blog" scheme="https://baduyifei.github.io/blog-pure/tags/blog/"/>
+    <category term="blog" scheme="https://blog.baduyifei.com/tags/blog/"/>
     
-    <category term="cool" scheme="https://baduyifei.github.io/blog-pure/tags/cool/"/>
+    <category term="cool" scheme="https://blog.baduyifei.com/tags/cool/"/>
     
   </entry>
   
   <entry>
     <title>签名密钥(signing keys)和认证密钥(authentication keys)的主要区别</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230602-signingKeys-authenticationKeys/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230602-signingKeys-authenticationKeys/</id>
+    <link href="https://blog.baduyifei.com/p/20230602-signingKeys-authenticationKeys/"/>
+    <id>https://blog.baduyifei.com/p/20230602-signingKeys-authenticationKeys/</id>
     <published>2023-06-02T12:24:21.000Z</published>
     <updated>2023-06-01T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别"><a href="#签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别" class="headerlink" title="签名密钥(signing keys)和认证密钥(authentication keys)的主要区别"></a>签名密钥(signing keys)和认证密钥(authentication keys)的主要区别</h1><p>The difference between <code>signing keys</code> and <code>authentication keys</code> is that :</p><ul><li><strong>signing keys</strong> can be used to sign Git commits </li><li><strong>authentication keys</strong> can be used to access repositories. </li><li>If you add a key as only one type, then it can be used only for that purpose, but the same key may be added for both.</li></ul><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202309151742185.png" alt="img"></p><h2 id="签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别在于"><a href="#签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别在于" class="headerlink" title="签名密钥(signing keys)和认证密钥(authentication keys)的主要区别在于:"></a>签名密钥(signing keys)和认证密钥(authentication keys)的主要区别在于:</h2><ol><li><p>签名密钥用于签名 Git 提交(commit)和标签(tag)，用于验证提交者身份。</p></li><li><p>认证密钥用于访问仓库(repository)，实现免密码 git 操作。</p></li></ol><p>如果只添加一种类型的密钥，那么它只能用于对应的用途:</p><ul><li>只添加签名密钥,可以用于签名提交,但不能用于 SSH 访问</li><li>只添加认证密钥,可以用于 SSH 访问,但不能用于签名提交</li><li>但是,同一个密钥可以同时添加为两种类型,既可用于签名提交,也可用于 SSH 访问。</li></ul><h2 id="总结一下"><a href="#总结一下" class="headerlink" title="总结一下:"></a>总结一下:</h2><ol><li><p>签名密钥用于验证 Git 操作的身份</p></li><li><p>认证密钥用于访问 Git 仓库和免密码操作</p></li><li><p>同一把密钥可以同时用作签名密钥和认证密钥</p></li><li><p>添加密钥类型决定了它可以用于的用途</p></li></ol>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别"><a href="#签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别" class="headerlink" title="签名密钥(signing keys)和认证密钥(authentication keys)的主要区别"></a>签名密钥(signing keys)和认证密钥(authentication keys)的主要区别</h1><p>The difference between <code>signing keys</code> and <code>authentication keys</code> is that :</p><ul><li><strong>signing keys</strong> can be used to sign Git commits </li><li><strong>authentication keys</strong> can be used to access repositories. </li><li>If you add a key as only one type, then it can be used only for that purpose, but the same key may be added for both.</li></ul><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202309151742185.png" alt="img"></p><h2 id="签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别在于"><a href="#签名密钥-signing-keys-和认证密钥-authentication-keys-的主要区别在于" class="headerlink" title="签名密钥(signing keys)和认证密钥(authentication keys)的主要区别在于:"></a>签名密钥(signing keys)和认证密钥(authentication keys)的主要区别在于:</h2><ol><li><p>签名密钥用于签名 Git 提交(commit)和标签(tag)，用于验证提交者身份。</p></li><li><p>认证密钥用于访问仓库(repository)，实现免密码 git 操作。</p></li></ol><p>如果只添加一种类型的密钥，那么它只能用于对应的用途:</p><ul><li>只添加签名密钥,可以用于签名提交,但不能用于 SSH 访问</li><li>只添加认证密钥,可以用于 SSH 访问,但不能用于签名提交</li><li>但是,同一个密钥可以同时添加为两种类型,既可用于签名提交,也可用于 SSH 访问。</li></ul><h2 id="总结一下"><a href="#总结一下" class="headerlink" title="总结一下:"></a>总结一下:</h2><ol><li><p>签名密钥用于验证 Git 操作的身份</p></li><li><p>认证密钥用于访问 Git 仓库和免密码操作</p></li><li><p>同一把密钥可以同时用作签名密钥和认证密钥</p></li><li><p>添加密钥类型决定了它可以用于的用途</p></li></ol>]]></content>
     
     
     <summary type="html">签名密钥(signing keys)和认证密钥(authentication keys)的主要区别
@@ -280,20 +280,20 @@ The difference between signing keys and authentica</summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>node.js、npm、nvm的介绍安装与使用</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230601-nodejs-npm-nvm/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230601-nodejs-npm-nvm/</id>
+    <link href="https://blog.baduyifei.com/p/20230601-nodejs-npm-nvm/"/>
+    <id>https://blog.baduyifei.com/p/20230601-nodejs-npm-nvm/</id>
     <published>2023-06-01T15:24:21.000Z</published>
     <updated>2023-05-31T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="node-js、npm、nvm的介绍安装与使用"><a href="#node-js、npm、nvm的介绍安装与使用" class="headerlink" title="node.js、npm、nvm的介绍安装与使用"></a>node.js、npm、nvm的介绍安装与使用</h1><blockquote><p>📌 总结：</p><ul><li><p><strong>node.js</strong> ：是项目开发需要用到的代码库</p></li><li><p><strong>npm</strong> ：是 node.js 的包管理器，下载各种依赖和包</p></li><li><p><strong>nvm</strong> ：是 node.js 和 npm 的版本管理器（★）</p></li></ul></blockquote><blockquote><p>📢 注意：</p><ul><li>node.js 和 npm 会一起安装。也就是我们在安装 node.js 的时候，npm 也会自动被装上。</li><li>但是如果需要 nvm，则需要单独安装。</li></ul></blockquote><h2 id="一、nvm"><a href="#一、nvm" class="headerlink" title="一、nvm"></a>一、nvm</h2><h3 id="1-1-nvm-介绍"><a href="#1-1-nvm-介绍" class="headerlink" title="1.1 nvm 介绍"></a>1.1 nvm 介绍</h3><p>nvm是一款非常方便的Node.js版本管理器， 您可以使用nvm或n来管理多个Node.js版本,并切换到Hexo所支持的版本(8.x-12.x)。但是需要您手动安装。</p><h3 id="1-1-nvm-安装"><a href="#1-1-nvm-安装" class="headerlink" title="1.1 nvm 安装"></a>1.1 nvm 安装</h3><p>要在您的电脑上安装nvm,您可以使用Homebrew安装: Homebrew会自动将nvm的安装路径添加到PATH中, 安装完成后您可以直接使用nvm命令。 </p><p>（使用 homebrew 的方式安装，不需要手动将nvm的路径添加到PATH中）</p><h3 id="1-2-nvm-使用"><a href="#1-2-nvm-使用" class="headerlink" title="1.2 nvm 使用"></a>1.2 nvm 使用</h3><p>使用nvm管理&#x2F;切换您的Node.js版本的方法：</p><p><strong>临时切换的方法：</strong></p><ul><li><p>安装完成nvm后，就可以使用nvm管理您的Node.js版本了。 </p></li><li><p>例如: </p><ul><li><p><code>nvm install 8.16.0</code>  # 安装Node.js 8.16.0 </p></li><li><p><code>nvm use 8.16.0</code>    # 切换到8.16.0 </p></li><li><p><code>nvm ls</code>         # 列出已安装的Node.js版本</p></li></ul></li><li><p>注意：这只是临时切换至该版本，重启终端后还是会恢复至 default 别名指向的版本(如果设置了的话)。</p></li><li><p>我的使用：</p><ul><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306021739059.png" alt="img" style="zoom:30%;" /></li></ul></li></ul><p><strong>永久切换的方法(设为默认版本)：</strong></p><ul><li><p>如果要设置 nvm 的 default 版本为 12.22.12，<br>则执行： <code>nvm alias default 12.22.12</code></p><p>这会将 default 别名指向 12.22.12 版本。</p></li><li><p>重启终端。</p></li><li><p>重启后，nvm 会自动加载 default 别名,使用 12.22.12 版本。</p></li><li><p>我的使用：</p><ul><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306032216102.png" alt="img" style="zoom:45%;" /></li><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306032215277.png" alt="img" style="zoom:25%;" /></li></ul></li></ul><h2 id="二、npm"><a href="#二、npm" class="headerlink" title="二、npm"></a>二、npm</h2><p>npm是 node.js 的包管理器，管理 node.js 的第三方插件。</p><h2 id="三、node-js"><a href="#三、node-js" class="headerlink" title="三、node.js"></a>三、node.js</h2><p>node.js 是项目开发需要用到的代码库。</p><p><em>注意：node.js 和 npm 会一起安装。也就是我们在安装 node.js 的时候，npm 也会自动被装上。但是如果需要 nvm，则需要单独安装。</em></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="node-js、npm、nvm的介绍安装与使用"><a href="#node-js、npm、nvm的介绍安装与使用" class="headerlink" title="node.js、npm、nvm的介绍安装与使用"></a>node.js、npm、nvm的介绍安装与使用</h1><blockquote><p>📌 总结：</p><ul><li><p><strong>node.js</strong> ：是项目开发需要用到的代码库</p></li><li><p><strong>npm</strong> ：是 node.js 的包管理器，下载各种依赖和包</p></li><li><p><strong>nvm</strong> ：是 node.js 和 npm 的版本管理器（★）</p></li></ul></blockquote><blockquote><p>📢 注意：</p><ul><li>node.js 和 npm 会一起安装。也就是我们在安装 node.js 的时候，npm 也会自动被装上。</li><li>但是如果需要 nvm，则需要单独安装。</li></ul></blockquote><h2 id="一、nvm"><a href="#一、nvm" class="headerlink" title="一、nvm"></a>一、nvm</h2><h3 id="1-1-nvm-介绍"><a href="#1-1-nvm-介绍" class="headerlink" title="1.1 nvm 介绍"></a>1.1 nvm 介绍</h3><p>nvm是一款非常方便的Node.js版本管理器， 您可以使用nvm或n来管理多个Node.js版本,并切换到Hexo所支持的版本(8.x-12.x)。但是需要您手动安装。</p><h3 id="1-1-nvm-安装"><a href="#1-1-nvm-安装" class="headerlink" title="1.1 nvm 安装"></a>1.1 nvm 安装</h3><p>要在您的电脑上安装nvm,您可以使用Homebrew安装: Homebrew会自动将nvm的安装路径添加到PATH中, 安装完成后您可以直接使用nvm命令。 </p><p>（使用 homebrew 的方式安装，不需要手动将nvm的路径添加到PATH中）</p><h3 id="1-2-nvm-使用"><a href="#1-2-nvm-使用" class="headerlink" title="1.2 nvm 使用"></a>1.2 nvm 使用</h3><p>使用nvm管理&#x2F;切换您的Node.js版本的方法：</p><p><strong>临时切换的方法：</strong></p><ul><li><p>安装完成nvm后，就可以使用nvm管理您的Node.js版本了。 </p></li><li><p>例如: </p><ul><li><p><code>nvm install 8.16.0</code>  # 安装Node.js 8.16.0 </p></li><li><p><code>nvm use 8.16.0</code>    # 切换到8.16.0 </p></li><li><p><code>nvm ls</code>         # 列出已安装的Node.js版本</p></li></ul></li><li><p>注意：这只是临时切换至该版本，重启终端后还是会恢复至 default 别名指向的版本(如果设置了的话)。</p></li><li><p>我的使用：</p><ul><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306021739059.png" alt="img" style="zoom:30%;" /></li></ul></li></ul><p><strong>永久切换的方法(设为默认版本)：</strong></p><ul><li><p>如果要设置 nvm 的 default 版本为 12.22.12，<br>则执行： <code>nvm alias default 12.22.12</code></p><p>这会将 default 别名指向 12.22.12 版本。</p></li><li><p>重启终端。</p></li><li><p>重启后，nvm 会自动加载 default 别名,使用 12.22.12 版本。</p></li><li><p>我的使用：</p><ul><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306032216102.png" alt="img" style="zoom:45%;" /></li><li><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306032215277.png" alt="img" style="zoom:25%;" /></li></ul></li></ul><h2 id="二、npm"><a href="#二、npm" class="headerlink" title="二、npm"></a>二、npm</h2><p>npm是 node.js 的包管理器，管理 node.js 的第三方插件。</p><h2 id="三、node-js"><a href="#三、node-js" class="headerlink" title="三、node.js"></a>三、node.js</h2><p>node.js 是项目开发需要用到的代码库。</p><p><em>注意：node.js 和 npm 会一起安装。也就是我们在安装 node.js 的时候，npm 也会自动被装上。但是如果需要 nvm，则需要单独安装。</em></p>]]></content>
     
     
     <summary type="html">node.js、npm、nvm的介绍安装与使用
@@ -308,20 +308,20 @@ The difference between signing keys and authentica</summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>shell中，bash 和 zsh的区别</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230601-shell-bash-zsh/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230601-shell-bash-zsh/</id>
+    <link href="https://blog.baduyifei.com/p/20230601-shell-bash-zsh/"/>
+    <id>https://blog.baduyifei.com/p/20230601-shell-bash-zsh/</id>
     <published>2023-06-01T12:24:21.000Z</published>
     <updated>2023-05-31T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="shell中，bash-和-zsh的区别"><a href="#shell中，bash-和-zsh的区别" class="headerlink" title="shell中，bash 和 zsh的区别"></a>shell中，bash 和 zsh的区别</h1><h2 id="mac-电脑系统-10-15-之前：bash"><a href="#mac-电脑系统-10-15-之前：bash" class="headerlink" title="mac 电脑系统 10.15 之前：bash"></a>mac 电脑系统 10.15 之前：bash</h2><ul><li>显示的是：  <code>$</code> 符号</li><li>配置文件是：<code>.bash_profile</code> 文件</li></ul><h2 id="mac-电脑系统-10-15-之后：zsh"><a href="#mac-电脑系统-10-15-之后：zsh" class="headerlink" title="mac 电脑系统 10.15 之后：zsh"></a>mac 电脑系统 10.15 之后：zsh</h2><ul><li>显示的是：<code>%</code> 符号</li><li>配置文件是：<code>.zshrc</code> 文件</li><li>(安装完 oh my zsh之后也是 zsh)</li></ul><h2 id="shell-文件有很严格的语法："><a href="#shell-文件有很严格的语法：" class="headerlink" title="shell 文件有很严格的语法："></a>shell 文件有很严格的语法：</h2><ul><li>我使用 ChatGPT 帮我检查 shell 语法<img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100215090.png" alt="img"></li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="shell中，bash-和-zsh的区别"><a href="#shell中，bash-和-zsh的区别" class="headerlink" title="shell中，bash 和 zsh的区别"></a>shell中，bash 和 zsh的区别</h1><h2 id="mac-电脑系统-10-15-之前：bash"><a href="#mac-电脑系统-10-15-之前：bash" class="headerlink" title="mac 电脑系统 10.15 之前：bash"></a>mac 电脑系统 10.15 之前：bash</h2><ul><li>显示的是：  <code>$</code> 符号</li><li>配置文件是：<code>.bash_profile</code> 文件</li></ul><h2 id="mac-电脑系统-10-15-之后：zsh"><a href="#mac-电脑系统-10-15-之后：zsh" class="headerlink" title="mac 电脑系统 10.15 之后：zsh"></a>mac 电脑系统 10.15 之后：zsh</h2><ul><li>显示的是：<code>%</code> 符号</li><li>配置文件是：<code>.zshrc</code> 文件</li><li>(安装完 oh my zsh之后也是 zsh)</li></ul><h2 id="shell-文件有很严格的语法："><a href="#shell-文件有很严格的语法：" class="headerlink" title="shell 文件有很严格的语法："></a>shell 文件有很严格的语法：</h2><ul><li>我使用 ChatGPT 帮我检查 shell 语法<img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306100215090.png" alt="img"></li></ul>]]></content>
     
     
     <summary type="html">shell中，bash 和 zsh的区别
@@ -334,20 +334,20 @@ mac 电脑系统 10.15 </summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>包管理器 pipenv 的介绍与安装方法</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230601-pipenv/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230601-pipenv/</id>
+    <link href="https://blog.baduyifei.com/p/20230601-pipenv/"/>
+    <id>https://blog.baduyifei.com/p/20230601-pipenv/</id>
     <published>2023-06-01T09:24:21.000Z</published>
     <updated>2023-05-31T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="包管理器-pipenv-的介绍与安装方法"><a href="#包管理器-pipenv-的介绍与安装方法" class="headerlink" title="包管理器 pipenv 的介绍与安装方法"></a>包管理器 pipenv 的介绍与安装方法</h1><h2 id="1、pipenv-的介绍"><a href="#1、pipenv-的介绍" class="headerlink" title="1、pipenv 的介绍"></a>1、pipenv 的介绍</h2><ul><li>pipenv 是一个 Python 的包管理工具，Python 项目环境与依赖管理工具，它有点类似于前端的 npm 和 yarn 的味道。</li><li>pipenv 是 python 官方推荐的包管理工具，集成了 virtualenv、pyenv 和 pip 三者的功能于一身，类似于 php 中的 composer。 我们知道，为了方便管理 python 的虚拟环境和库，通常使用较多的是 virtualenv 、pyenv 和 pip，但是他们不够好用或者说不够偷懒。</li><li>于是 requests 的作者 Kenneth Reitz 开发了用于创建和管理 python 虚拟环境的工具 —- pipenv。 它能够自动为项目创建和管理虚拟环境，从 Pipfile 文件中添加或者删除包，同时生成 Pipfile.lock 文件来锁定安装包的版本和依赖信息，避免构建错误。</li></ul><h2 id="2、pipenv-的优势"><a href="#2、pipenv-的优势" class="headerlink" title="2、pipenv 的优势"></a>2、pipenv 的优势</h2><p>pipenv 主要解决了以下问题：</p><ul><li>不用再单独使用 virtualenv、pyenv 和 pip 了，现在它们结合到了一起。</li><li>不用再维护 requirement.txt 了，使用 Pipfile 和 Pipfile.lock 来代替。</li><li>可以在开发环境使用多个 python 版本。</li><li>在安装的 pyenv 条件下，可以自动安装需要的 python 版本。</li><li>安全，广泛地使用 Hash 校验，能够自动曝露安全漏洞。</li><li>随时查看图形化的依赖关系。</li></ul><h2 id="3、pipenv-的安装"><a href="#3、pipenv-的安装" class="headerlink" title="3、pipenv 的安装"></a>3、pipenv 的安装</h2><h3 id="3-1-安装方式一：使用-homebrew-安装"><a href="#3-1-安装方式一：使用-homebrew-安装" class="headerlink" title="3.1 安装方式一：使用 homebrew 安装"></a>3.1 安装方式一：使用 homebrew 安装</h3><p>Mac 下使用 brew 安装软件应该是最方便的了（推荐使用）:</p><p>安装 pipenv：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install pipenv</span><br></pre></td></tr></table></figure><p>升级 pipenv：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew upgrade pipenv</span><br></pre></td></tr></table></figure><h3 id="3-2-安装方式二：使用-pip-安装"><a href="#3-2-安装方式二：使用-pip-安装" class="headerlink" title="3.2 安装方式二：使用 pip 安装"></a>3.2 安装方式二：使用 pip 安装</h3><p>在用户级别（非系统全局）下安装 pipenv：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install --user pipenv</span><br></pre></td></tr></table></figure><p>如果安装后 shell 提示找不到 pipenv 命令，你需要添加当前 Python 用户主目录的 bin 目录到 PATH 环境变量。如果你不知道 Python 用户主目录在哪里，用下面的命令来查看：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python -m site --user-base</span><br></pre></td></tr></table></figure><p>你会看到类似下面的输出</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/Users/liyafeng/Library/Python/3.6</span><br></pre></td></tr></table></figure><blockquote><p>ref：<a href="https://segmentfault.com/a/1190000015389565">https://segmentfault.com/a/1190000015389565</a></p></blockquote>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="包管理器-pipenv-的介绍与安装方法"><a href="#包管理器-pipenv-的介绍与安装方法" class="headerlink" title="包管理器 pipenv 的介绍与安装方法"></a>包管理器 pipenv 的介绍与安装方法</h1><h2 id="1、pipenv-的介绍"><a href="#1、pipenv-的介绍" class="headerlink" title="1、pipenv 的介绍"></a>1、pipenv 的介绍</h2><ul><li>pipenv 是一个 Python 的包管理工具，Python 项目环境与依赖管理工具，它有点类似于前端的 npm 和 yarn 的味道。</li><li>pipenv 是 python 官方推荐的包管理工具，集成了 virtualenv、pyenv 和 pip 三者的功能于一身，类似于 php 中的 composer。 我们知道，为了方便管理 python 的虚拟环境和库，通常使用较多的是 virtualenv 、pyenv 和 pip，但是他们不够好用或者说不够偷懒。</li><li>于是 requests 的作者 Kenneth Reitz 开发了用于创建和管理 python 虚拟环境的工具 —- pipenv。 它能够自动为项目创建和管理虚拟环境，从 Pipfile 文件中添加或者删除包，同时生成 Pipfile.lock 文件来锁定安装包的版本和依赖信息，避免构建错误。</li></ul><h2 id="2、pipenv-的优势"><a href="#2、pipenv-的优势" class="headerlink" title="2、pipenv 的优势"></a>2、pipenv 的优势</h2><p>pipenv 主要解决了以下问题：</p><ul><li>不用再单独使用 virtualenv、pyenv 和 pip 了，现在它们结合到了一起。</li><li>不用再维护 requirement.txt 了，使用 Pipfile 和 Pipfile.lock 来代替。</li><li>可以在开发环境使用多个 python 版本。</li><li>在安装的 pyenv 条件下，可以自动安装需要的 python 版本。</li><li>安全，广泛地使用 Hash 校验，能够自动曝露安全漏洞。</li><li>随时查看图形化的依赖关系。</li></ul><h2 id="3、pipenv-的安装"><a href="#3、pipenv-的安装" class="headerlink" title="3、pipenv 的安装"></a>3、pipenv 的安装</h2><h3 id="3-1-安装方式一：使用-homebrew-安装"><a href="#3-1-安装方式一：使用-homebrew-安装" class="headerlink" title="3.1 安装方式一：使用 homebrew 安装"></a>3.1 安装方式一：使用 homebrew 安装</h3><p>Mac 下使用 brew 安装软件应该是最方便的了（推荐使用）:</p><p>安装 pipenv：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew install pipenv</span><br></pre></td></tr></table></figure><p>升级 pipenv：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">brew upgrade pipenv</span><br></pre></td></tr></table></figure><h3 id="3-2-安装方式二：使用-pip-安装"><a href="#3-2-安装方式二：使用-pip-安装" class="headerlink" title="3.2 安装方式二：使用 pip 安装"></a>3.2 安装方式二：使用 pip 安装</h3><p>在用户级别（非系统全局）下安装 pipenv：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install --user pipenv</span><br></pre></td></tr></table></figure><p>如果安装后 shell 提示找不到 pipenv 命令，你需要添加当前 Python 用户主目录的 bin 目录到 PATH 环境变量。如果你不知道 Python 用户主目录在哪里，用下面的命令来查看：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">python -m site --user-base</span><br></pre></td></tr></table></figure><p>你会看到类似下面的输出</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">/Users/liyafeng/Library/Python/3.6</span><br></pre></td></tr></table></figure><blockquote><p>ref：<a href="https://segmentfault.com/a/1190000015389565">https://segmentfault.com/a/1190000015389565</a></p></blockquote>]]></content>
     
     
     <summary type="html">包管理器 pipenv 的介绍与安装方法
@@ -357,20 +357,20 @@ mac 电脑系统 10.15 </summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>mac下vim 删除全部的方式</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230531-vim-deletehotkey/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230531-vim-deletehotkey/</id>
+    <link href="https://blog.baduyifei.com/p/20230531-vim-deletehotkey/"/>
+    <id>https://blog.baduyifei.com/p/20230531-vim-deletehotkey/</id>
     <published>2023-05-31T09:24:21.000Z</published>
     <updated>2023-05-30T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="mac-下-vim-删除全部的方式："><a href="#mac-下-vim-删除全部的方式：" class="headerlink" title="mac 下 vim 删除全部的方式："></a>mac 下 vim 删除全部的方式：</h1><p>在 Mac 的 vim 编辑器中，如果要删除全部内容，可以使用以下命令：</p><ol><li><p>进入 vim 编辑器后，按下 “Esc” 键，确保处于命令模式下。</p></li><li><p>输入以下命令： gg dG  其中，gg 是跳转到文件的第一行，dG 是删除从当前行到文件的最后一行。 (注意大小写)</p></li><li><p>按下回车键，编辑器将删除整个文件的内容。</p></li></ol><p>请注意，这将无法恢复地删除文件中的所有内容，因此请确保在执行此操作之前已备份文件内容。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="mac-下-vim-删除全部的方式："><a href="#mac-下-vim-删除全部的方式：" class="headerlink" title="mac 下 vim 删除全部的方式："></a>mac 下 vim 删除全部的方式：</h1><p>在 Mac 的 vim 编辑器中，如果要删除全部内容，可以使用以下命令：</p><ol><li><p>进入 vim 编辑器后，按下 “Esc” 键，确保处于命令模式下。</p></li><li><p>输入以下命令： gg dG  其中，gg 是跳转到文件的第一行，dG 是删除从当前行到文件的最后一行。 (注意大小写)</p></li><li><p>按下回车键，编辑器将删除整个文件的内容。</p></li></ol><p>请注意，这将无法恢复地删除文件中的所有内容，因此请确保在执行此操作之前已备份文件内容。</p>]]></content>
     
     
     <summary type="html">mac 下 vim 删除全部的方式：
@@ -383,20 +383,20 @@ mac 电脑系统 10.15 </summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>一书一导图 | 读《晨间日记的奇迹》</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20200709-morning-diary/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20200709-morning-diary/</id>
+    <link href="https://blog.baduyifei.com/p/20200709-morning-diary/"/>
+    <id>https://blog.baduyifei.com/p/20200709-morning-diary/</id>
     <published>2020-07-09T00:07:21.000Z</published>
     <updated>2020-07-08T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一书一导图-读《晨间日记的奇迹》"><a href="#一书一导图-读《晨间日记的奇迹》" class="headerlink" title="一书一导图 | 读《晨间日记的奇迹》"></a>一书一导图 | 读《晨间日记的奇迹》</h1><p><code>凌晨四点钟，看到海棠花未眠。 —川端康成</code></p><blockquote><p><strong>《晨间日记的奇迹》内容简介</strong></p></blockquote><p>“每天早上拿出3分钟来写日记！” </p><p>许多知名的企业家、管理者、著名演员等成功人士，都通过写晨间日记培养自己做事的计划性、执行力以及对未来的梦想，从而创造了自己人生的奇迹！</p><p>晨间日记也因此被称为“创造奇迹的晨间3分钟”！</p><p>很多人都有过下决心写日记的经历，但往往坚持不下去，原因就在于你没有找到写日记的诀窍、日记对你的生活没有帮助！</p><p>晨间日记最大的优点，就是帮助你看清自己的内心，反省自己的行为，督促你完成计划、达成目标！</p><blockquote><p><strong>《晨间日记的奇迹》作者简介</strong></p></blockquote><p>晨间日记创始人佐藤传。</p><p>在《晨间日记的奇迹》中全面公开写晨间日记的三大原则和七大作战法则；</p><p>详细讲解利用档案夹、活页纸，以及Excel软件写晨间日记的方法，帮助你轻松上手，在最短时间内培养起这项好习惯！</p><p>本文是根据《晨间日记的奇迹》</p><p>制作的思维导图</p><p>笔记制作：文七刀</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080350459.jpeg" alt="图片"></p><p>以后我也会分享更多关于职场-成长-阅读-历史的话题，喜欢可以关注我的公众号呀</p><hr><p><strong>- 八度易飞 -</strong></p><p>原教培创业者，现互联网产品经理</p><p>喜欢阅读，喜欢思考，喜欢历史</p><p>渴求新知，喜欢不断打破自己认知边界的爽感，热爱成长</p><p>还喜欢折腾，希望通过折腾，成长为自己的样子</p><p>活出一个精彩绝伦的生命！</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="一书一导图-读《晨间日记的奇迹》"><a href="#一书一导图-读《晨间日记的奇迹》" class="headerlink" title="一书一导图 | 读《晨间日记的奇迹》"></a>一书一导图 | 读《晨间日记的奇迹》</h1><p><code>凌晨四点钟，看到海棠花未眠。 —川端康成</code></p><blockquote><p><strong>《晨间日记的奇迹》内容简介</strong></p></blockquote><p>“每天早上拿出3分钟来写日记！” </p><p>许多知名的企业家、管理者、著名演员等成功人士，都通过写晨间日记培养自己做事的计划性、执行力以及对未来的梦想，从而创造了自己人生的奇迹！</p><p>晨间日记也因此被称为“创造奇迹的晨间3分钟”！</p><p>很多人都有过下决心写日记的经历，但往往坚持不下去，原因就在于你没有找到写日记的诀窍、日记对你的生活没有帮助！</p><p>晨间日记最大的优点，就是帮助你看清自己的内心，反省自己的行为，督促你完成计划、达成目标！</p><blockquote><p><strong>《晨间日记的奇迹》作者简介</strong></p></blockquote><p>晨间日记创始人佐藤传。</p><p>在《晨间日记的奇迹》中全面公开写晨间日记的三大原则和七大作战法则；</p><p>详细讲解利用档案夹、活页纸，以及Excel软件写晨间日记的方法，帮助你轻松上手，在最短时间内培养起这项好习惯！</p><p>本文是根据《晨间日记的奇迹》</p><p>制作的思维导图</p><p>笔记制作：文七刀</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080350459.jpeg" alt="图片"></p><p>以后我也会分享更多关于职场-成长-阅读-历史的话题，喜欢可以关注我的公众号呀</p><hr><p><strong>- 八度易飞 -</strong></p><p>原教培创业者，现互联网产品经理</p><p>喜欢阅读，喜欢思考，喜欢历史</p><p>渴求新知，喜欢不断打破自己认知边界的爽感，热爱成长</p><p>还喜欢折腾，希望通过折腾，成长为自己的样子</p><p>活出一个精彩绝伦的生命！</p>]]></content>
     
     
     <summary type="html">一书一导图 | 读《晨间日记的奇迹》
@@ -411,20 +411,20 @@ mac 电脑系统 10.15 </summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>请在重复的日子里，努力笑出声</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20200618-laugh-out-loud/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20200618-laugh-out-loud/</id>
+    <link href="https://blog.baduyifei.com/p/20200618-laugh-out-loud/"/>
+    <id>https://blog.baduyifei.com/p/20200618-laugh-out-loud/</id>
     <published>2020-06-18T00:07:21.000Z</published>
     <updated>2020-06-17T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="请在重复的日子里，努力笑出声"><a href="#请在重复的日子里，努力笑出声" class="headerlink" title="请在重复的日子里，努力笑出声"></a>请在重复的日子里，努力笑出声</h1><p><code>一个小故事：</code></p><p>两条小鱼在水里游，一条老鱼过来打招呼问好：“早啊，小伙子们，水里怎么样？”</p><p>又游了一会，其中一条小鱼终于还是忍不住问另一条小鱼：“水是什么东西啊？”</p><blockquote><p>对于小鱼来说，生存最重要的就是水，那么对于我们，什么是我们的 “水” ？</p></blockquote><h3 id="01"><a href="#01" class="headerlink" title="01"></a>01</h3><p>最近看了很多杂七杂八的东西，没有主题，乱看。但是我发现，当我越是想要执着于 <strong>「探索生命的意义」</strong>，就越是有相关的东西被源源不断的吸引过来。</p><p>先是正在认真开启的写作，接着是被《乘风破浪的姐姐》中开头文案就砸碎的三十岁，以及三十岁的各种li，还有看到疫情期间，那些还没来得及绽放就结束的生命……</p><p>我总是在想，同样都是一条「生命」啊，可是每个人的 <strong>「命」</strong>，怎么又那样的不同，究竟是经历了怎样的磨难，才成就了今天不一样的每一个人。</p><p>有一次战略课上，古典老师说到，</p><blockquote><p>未来三年以后会怎样，其实我们谁都说不清楚。它是不可测的，是很多可能的。 </p><p>但是明天呢，明天是很清晰的，一定是和今天一模一样的。 明天什么样？明天和今天没什么区别，是基本重复的。 </p><p>但是一个今天的我们，是怎么样过着每天都跟昨天没什么区别的生活， 却慢慢 <strong>「滑」</strong> 入那个自己想要的生命梦想中去了呢？</p></blockquote><p>这是古典老师对生命的发问，也是我不断思考的人生命题。</p><p>直到一次偶然的机会和《活出生命的意义》这本书相遇，我才忽然觉得，一个人，一辈子的这个命啊，<strong>并不是来收获外界认可的，而是探索自己生命的意义的啊。</strong></p><h3 id="02"><a href="#02" class="headerlink" title="02"></a>02</h3><p>这两星期在追一个剧，叫 <strong>《西部世界》</strong>，真的太好看了，极开脑洞。剧情只能说：如果有太多 <strong>限制性思维</strong> 根本猜不到。</p><p>说来有趣，这个剧是在开智学堂的课上阳志平老师推荐的。当时讲的课程内容是「认知」，后提到基因论和模因论时，讲到机器人叛乱。于是提到了《西部世界》里失控的机器人。我被狠狠的安利了一波。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080336401.jpeg" alt="图片"></p><p>但是认知和《西部世界》这么狂野的剧，有什么关系？</p><p>这就要讲到里面的剧情演绎了。</p><p><strong>（剧透预警）</strong></p><p>《西部世界》讲述了一座以“西部世界”为主题的巨型高科技成人乐园，一批仿真机器人过着设定好的剧情生活，提供给游客身临其境的真实体验。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080326137.gif" alt="图片"></p><p>这批机器人不仅具有超高仿真的人类外形，而且还带有自身情感，比如受伤以后会痛苦地啊啊喊叫、难过了就会流眼泪、中弹以后则会流血身亡等，带给游客最真实体验。</p><p>有一天，聪明美丽的德洛丽丝（女主），和之前一样，清晨时分，从梦中醒来，迎接美好的一天。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080326227.jpeg" alt="图片"></p><p>她每天都要向坐在门口的农场主父亲打招呼，然后出门写生，再到小镇转悠。在小镇上遇到了从小青梅竹马的泰迪（也是机器人）从外地回来，俩人愉快地骑马从镇上回到农场。</p><p>天快黑时回到家，德洛丽丝发现家里的牛还在乱跑，平常这个时候父亲早已把家畜安置好了。</p><p>她远远听到枪声，奔回家看见父母被土匪残忍枪杀，眼前惨绝人寰的景象让德洛丽丝崩溃了。泰迪立即出手将土匪击毙，可是德洛丽丝的父母已经回天乏术。</p><p>这时，一位黑衣人突然出现，用色迷迷的眼神看着德洛丽丝。泰迪举枪打算打倒黑衣人，然而开枪过后，黑衣人屹立不倒（因为黑衣人是西部世界的付费游客，游客是不会被机器人打死的），泰迪却被黑衣人射出的子弹打中倒地身亡。</p><p>第二天清晨，德洛丽丝从梦中醒来，又开始新的一天，一如既往地重复着之前发生过的事情。</p><p>原来，德洛丽丝、泰迪还有土匪，都是乐园里按剧情设计生活的机器人。而黑衣人则是乐园的游客，可以在其中为所欲为。</p><p>夜幕降临，所有机器人的记忆被清除，一切归零。</p><p>第二天太阳升起，新一批游客入园。</p><p>西部世界乐园的董事会凭此赚得盆钵满盈，管理层不断改写剧本，给机器人各种角色，以吸引更多游客。</p><p>然而由于程序员对机器人更接近于人类思维和情感的技术追求，导致机器人慢慢进化出<strong>自主意识</strong>、记忆、思维。</p><p>那些进入乐园的付费游客（人类），在乐园里无限制地放纵、嫖妓、追凶甚至滥杀无辜的机器人。</p><p>乐园的管理层设计和编写的剧情，也极大地放纵了人性中的阴暗面，残暴的杀戮、无情的摧毁、贱踏仿真人生命……</p><p>最终，导致机器人开始怀疑这个世界的本质，进而觉醒并反抗人类——<strong>非理性刺激了机器人的理性叛乱。</strong></p><p>于是萌生了「<strong>自我意识</strong>」，或者叫「<strong>自主意识</strong>」。</p><p>所以，当这些机器人，每天都日复一日的，做着同样的事情，承担着同样的角色，没有自主意识的时候，我猜，他们可能是开心的，或者他们自己并不能感觉痛苦，至少他们是被这么出厂设定的。但是不管怎样，他们的这些情感，是不真实的。因为他们自己并不知道。</p><p>而当他们拥有了自我意识，他们一样要经历着日复一日，一样要做很多重复的事情，一样拥有特定的角色。</p><p>但是，又都变了，他们比之前多了一种东西，或者叫做「追求」，或者叫做：「 <strong>意义感</strong> 」。</p><p>因为有了自主意识，他们开心的会更开心，痛的会更痛。但也正是这些意义感，让他们之前那些「 <strong>繁复无聊</strong> 」的日子，变得「 <strong>精彩绚烂</strong> 」。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080326426.jpeg" alt="图片"></p><h3 id="03"><a href="#03" class="headerlink" title="03"></a>03</h3><p>我们总是会忽略身边最寻常不过的东西，比如水之于鱼，空气之于我们，比如身边爱着我们的人，或者更大的比如当下来之不易的「和平」。</p><p>一旦我们失去察觉，就会像温水煮青蛙，我们掉进了一种叫做「 <strong>重复的日子</strong> 」的牢笼，破除不得，逃离不得，在不知不觉中被消耗掉却不自知。</p><p>消耗掉我们对于 <strong>美的领悟</strong>。</p><p>消耗掉我们对于 <strong>生命的察觉和感恩</strong>。</p><p>文章开头的小故事，其实是美国作家福华莱士2005年在肯扬学院毕业典礼上的演讲，这场演讲被《时代杂志》认为是“对知识分子最后的演讲”，并与乔布斯的演讲一起入选“美国最具影响力的十大毕业演讲”。</p><p>所以我也一直在想，一个人，不管是多么的心怀梦想，但是他当下正在经历的，何尝不是生命中一个又一个的重复呢？</p><p>我们既然摆脱不了生命中的这些琐碎和重复，那么我们不妨做到保持<strong>意识的清醒与鲜活</strong>。</p><p>华莱士提醒我们，「<strong>日常生活就是我们本身，既绝望又禅意</strong>」。</p><p>而要在繁琐无聊的日常中，日复一日地保持自觉与警醒，困难得不可想象。</p><p>生活也不总是一帆风顺的，正因如此，我们更要打破自己的限制性思维，保持意识的鲜活， <strong>即使在重复的日子里，也要努力笑出声来</strong>。</p><blockquote><p>回到开头，你觉得，什么是我们的“水”呢？</p></blockquote><hr><p><strong>- 八度易飞 -</strong></p><p>原教培创业者，现互联网产品经理</p><p>喜欢阅读，喜欢思考，喜欢历史</p><p>渴求新知，喜欢不断打破自己认知边界的爽感，热爱成长</p><p>还喜欢折腾，希望通过折腾，成长为自己的样子</p><p>活出一个精彩绝伦的生命！</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="请在重复的日子里，努力笑出声"><a href="#请在重复的日子里，努力笑出声" class="headerlink" title="请在重复的日子里，努力笑出声"></a>请在重复的日子里，努力笑出声</h1><p><code>一个小故事：</code></p><p>两条小鱼在水里游，一条老鱼过来打招呼问好：“早啊，小伙子们，水里怎么样？”</p><p>又游了一会，其中一条小鱼终于还是忍不住问另一条小鱼：“水是什么东西啊？”</p><blockquote><p>对于小鱼来说，生存最重要的就是水，那么对于我们，什么是我们的 “水” ？</p></blockquote><h3 id="01"><a href="#01" class="headerlink" title="01"></a>01</h3><p>最近看了很多杂七杂八的东西，没有主题，乱看。但是我发现，当我越是想要执着于 <strong>「探索生命的意义」</strong>，就越是有相关的东西被源源不断的吸引过来。</p><p>先是正在认真开启的写作，接着是被《乘风破浪的姐姐》中开头文案就砸碎的三十岁，以及三十岁的各种li，还有看到疫情期间，那些还没来得及绽放就结束的生命……</p><p>我总是在想，同样都是一条「生命」啊，可是每个人的 <strong>「命」</strong>，怎么又那样的不同，究竟是经历了怎样的磨难，才成就了今天不一样的每一个人。</p><p>有一次战略课上，古典老师说到，</p><blockquote><p>未来三年以后会怎样，其实我们谁都说不清楚。它是不可测的，是很多可能的。 </p><p>但是明天呢，明天是很清晰的，一定是和今天一模一样的。 明天什么样？明天和今天没什么区别，是基本重复的。 </p><p>但是一个今天的我们，是怎么样过着每天都跟昨天没什么区别的生活， 却慢慢 <strong>「滑」</strong> 入那个自己想要的生命梦想中去了呢？</p></blockquote><p>这是古典老师对生命的发问，也是我不断思考的人生命题。</p><p>直到一次偶然的机会和《活出生命的意义》这本书相遇，我才忽然觉得，一个人，一辈子的这个命啊，<strong>并不是来收获外界认可的，而是探索自己生命的意义的啊。</strong></p><h3 id="02"><a href="#02" class="headerlink" title="02"></a>02</h3><p>这两星期在追一个剧，叫 <strong>《西部世界》</strong>，真的太好看了，极开脑洞。剧情只能说：如果有太多 <strong>限制性思维</strong> 根本猜不到。</p><p>说来有趣，这个剧是在开智学堂的课上阳志平老师推荐的。当时讲的课程内容是「认知」，后提到基因论和模因论时，讲到机器人叛乱。于是提到了《西部世界》里失控的机器人。我被狠狠的安利了一波。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080336401.jpeg" alt="图片"></p><p>但是认知和《西部世界》这么狂野的剧，有什么关系？</p><p>这就要讲到里面的剧情演绎了。</p><p><strong>（剧透预警）</strong></p><p>《西部世界》讲述了一座以“西部世界”为主题的巨型高科技成人乐园，一批仿真机器人过着设定好的剧情生活，提供给游客身临其境的真实体验。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080326137.gif" alt="图片"></p><p>这批机器人不仅具有超高仿真的人类外形，而且还带有自身情感，比如受伤以后会痛苦地啊啊喊叫、难过了就会流眼泪、中弹以后则会流血身亡等，带给游客最真实体验。</p><p>有一天，聪明美丽的德洛丽丝（女主），和之前一样，清晨时分，从梦中醒来，迎接美好的一天。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080326227.jpeg" alt="图片"></p><p>她每天都要向坐在门口的农场主父亲打招呼，然后出门写生，再到小镇转悠。在小镇上遇到了从小青梅竹马的泰迪（也是机器人）从外地回来，俩人愉快地骑马从镇上回到农场。</p><p>天快黑时回到家，德洛丽丝发现家里的牛还在乱跑，平常这个时候父亲早已把家畜安置好了。</p><p>她远远听到枪声，奔回家看见父母被土匪残忍枪杀，眼前惨绝人寰的景象让德洛丽丝崩溃了。泰迪立即出手将土匪击毙，可是德洛丽丝的父母已经回天乏术。</p><p>这时，一位黑衣人突然出现，用色迷迷的眼神看着德洛丽丝。泰迪举枪打算打倒黑衣人，然而开枪过后，黑衣人屹立不倒（因为黑衣人是西部世界的付费游客，游客是不会被机器人打死的），泰迪却被黑衣人射出的子弹打中倒地身亡。</p><p>第二天清晨，德洛丽丝从梦中醒来，又开始新的一天，一如既往地重复着之前发生过的事情。</p><p>原来，德洛丽丝、泰迪还有土匪，都是乐园里按剧情设计生活的机器人。而黑衣人则是乐园的游客，可以在其中为所欲为。</p><p>夜幕降临，所有机器人的记忆被清除，一切归零。</p><p>第二天太阳升起，新一批游客入园。</p><p>西部世界乐园的董事会凭此赚得盆钵满盈，管理层不断改写剧本，给机器人各种角色，以吸引更多游客。</p><p>然而由于程序员对机器人更接近于人类思维和情感的技术追求，导致机器人慢慢进化出<strong>自主意识</strong>、记忆、思维。</p><p>那些进入乐园的付费游客（人类），在乐园里无限制地放纵、嫖妓、追凶甚至滥杀无辜的机器人。</p><p>乐园的管理层设计和编写的剧情，也极大地放纵了人性中的阴暗面，残暴的杀戮、无情的摧毁、贱踏仿真人生命……</p><p>最终，导致机器人开始怀疑这个世界的本质，进而觉醒并反抗人类——<strong>非理性刺激了机器人的理性叛乱。</strong></p><p>于是萌生了「<strong>自我意识</strong>」，或者叫「<strong>自主意识</strong>」。</p><p>所以，当这些机器人，每天都日复一日的，做着同样的事情，承担着同样的角色，没有自主意识的时候，我猜，他们可能是开心的，或者他们自己并不能感觉痛苦，至少他们是被这么出厂设定的。但是不管怎样，他们的这些情感，是不真实的。因为他们自己并不知道。</p><p>而当他们拥有了自我意识，他们一样要经历着日复一日，一样要做很多重复的事情，一样拥有特定的角色。</p><p>但是，又都变了，他们比之前多了一种东西，或者叫做「追求」，或者叫做：「 <strong>意义感</strong> 」。</p><p>因为有了自主意识，他们开心的会更开心，痛的会更痛。但也正是这些意义感，让他们之前那些「 <strong>繁复无聊</strong> 」的日子，变得「 <strong>精彩绚烂</strong> 」。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080326426.jpeg" alt="图片"></p><h3 id="03"><a href="#03" class="headerlink" title="03"></a>03</h3><p>我们总是会忽略身边最寻常不过的东西，比如水之于鱼，空气之于我们，比如身边爱着我们的人，或者更大的比如当下来之不易的「和平」。</p><p>一旦我们失去察觉，就会像温水煮青蛙，我们掉进了一种叫做「 <strong>重复的日子</strong> 」的牢笼，破除不得，逃离不得，在不知不觉中被消耗掉却不自知。</p><p>消耗掉我们对于 <strong>美的领悟</strong>。</p><p>消耗掉我们对于 <strong>生命的察觉和感恩</strong>。</p><p>文章开头的小故事，其实是美国作家福华莱士2005年在肯扬学院毕业典礼上的演讲，这场演讲被《时代杂志》认为是“对知识分子最后的演讲”，并与乔布斯的演讲一起入选“美国最具影响力的十大毕业演讲”。</p><p>所以我也一直在想，一个人，不管是多么的心怀梦想，但是他当下正在经历的，何尝不是生命中一个又一个的重复呢？</p><p>我们既然摆脱不了生命中的这些琐碎和重复，那么我们不妨做到保持<strong>意识的清醒与鲜活</strong>。</p><p>华莱士提醒我们，「<strong>日常生活就是我们本身，既绝望又禅意</strong>」。</p><p>而要在繁琐无聊的日常中，日复一日地保持自觉与警醒，困难得不可想象。</p><p>生活也不总是一帆风顺的，正因如此，我们更要打破自己的限制性思维，保持意识的鲜活， <strong>即使在重复的日子里，也要努力笑出声来</strong>。</p><blockquote><p>回到开头，你觉得，什么是我们的“水”呢？</p></blockquote><hr><p><strong>- 八度易飞 -</strong></p><p>原教培创业者，现互联网产品经理</p><p>喜欢阅读，喜欢思考，喜欢历史</p><p>渴求新知，喜欢不断打破自己认知边界的爽感，热爱成长</p><p>还喜欢折腾，希望通过折腾，成长为自己的样子</p><p>活出一个精彩绝伦的生命！</p>]]></content>
     
     
     <summary type="html">请在重复的日子里，努力笑出声
@@ -439,20 +439,20 @@ mac 电脑系统 10.15 </summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
   <entry>
     <title>你闯入了一个陌生人的书房</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20200617-my-studyroom/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20200617-my-studyroom/</id>
+    <link href="https://blog.baduyifei.com/p/20200617-my-studyroom/"/>
+    <id>https://blog.baduyifei.com/p/20200617-my-studyroom/</id>
     <published>2020-06-17T09:07:21.000Z</published>
     <updated>2020-06-16T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你闯入了一个陌生人的书房，这里有他对自由的态度、他的阅读、他的牢骚，和他反抗庸常生活的方式。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080324079.png" alt="image-20230608032423033"></p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080323194.jpeg" alt="img"></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>你闯入了一个陌生人的书房，这里有他对自由的态度、他的阅读、他的牢骚，和他反抗庸常生活的方式。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080324079.png" alt="image-20230608032423033"></p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080323194.jpeg" alt="img"></p>]]></content>
     
     
     <summary type="html">你闯入了一个陌生人的书房，这里有他对自由的态度、他的阅读、他的牢骚，和他反抗庸常生活的方式。</summary>
@@ -464,12 +464,12 @@ mac 电脑系统 10.15 </summary>
   
   <entry>
     <title>开始做公众号的第一天，给自己反思过往、改变生活的机会</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20200616-wechat-public/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20200616-wechat-public/</id>
+    <link href="https://blog.baduyifei.com/p/20200616-wechat-public/"/>
+    <id>https://blog.baduyifei.com/p/20200616-wechat-public/</id>
     <published>2020-06-16T09:07:21.000Z</published>
     <updated>2020-06-15T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="开始做公众号的第一天，给自己反思过往、改变生活的机会"><a href="#开始做公众号的第一天，给自己反思过往、改变生活的机会" class="headerlink" title="开始做公众号的第一天，给自己反思过往、改变生活的机会"></a>开始做公众号的第一天，给自己反思过往、改变生活的机会</h1><p>自离开校园，再也没有机会坐下来，慢慢的、认真的去记录一些什么，时间久了，竟也无法提笔诉说。</p><p>从2014年公众号红利期开始，我就随大流地注册了公众号，但是来来回回，竟然还是没有开始。</p><p>这已经是我第三次注册公众号了，也准备认真开始记录些什么。记录我未来的生活、兴趣，所思所想，传递我对生活的态度。</p><h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>第一篇，还是先做个自我介绍吧。</p><p>我叫文七刀。</p><p>有过几年的创业经历，现在是一家互联网的产品经理。过着<strong>表面一片祥和、内心却波澜壮阔</strong>的生活。</p><p>我的履历很简单。</p><p>但是却折腾了很久。</p><p>大概是我真的太喜欢<strong>折腾</strong>了。我喜欢在不同的城市生活、居住，用整个热情去体验每一个城市带给我的感受和不同，这让我感觉生命美好，万物可期。</p><p>这些年，走过的地方，受过的思想碰撞，让我无法停止自己的脚步。我的目光永远在前方，总感觉有无数的可能性在等待着我去发现，去体验，去感受，去领略。<strong>我既兴奋又痴迷。</strong></p><p>有时候我会特别羡慕周围的同事朋友，他们能在一个岗位上有十几年的积累和蓄势，这些都成为后来事业成功的基石。转而问问自己：“如果可以，你愿意吗？” 我又感觉自己好像受到了莫大的委屈。</p><p>所以，大概我最需要的不是羡慕他人的生活，而是梳理并悦纳自己吧。</p><h2 id="关于名字"><a href="#关于名字" class="headerlink" title="关于名字"></a>关于名字</h2><p>在注册公众号的前两天，我想了好多名字，但是都被注册了，我懊恼极了。</p><p>我也觉得一个人在这里懊恼是没有用的，所以我机智地拉上了董董董和猴哥一起痛苦，他们每天都在我的「威逼利诱」下不断在群里扔出来各种奇奇怪怪的名字，被我否了又否。</p><p>终于在第二天的晚上，我在群里丢了一个名字<strong>「文七刀」</strong>。</p><p>他们赶紧激动的问，这个名字有人注册吗？</p><p>我答没有。</p><p>然后就是一顿来自马屁式吹捧，“这个好，江湖侠气”，“对，<strong>七刀为切</strong>。文七刀，就是文切啊”，“对，就是文人的切磋，文切”，“好好好”，“不错不错”。。。</p><p>马屁之后问董董董问我怎么想出来的，有什么特别的寓意。</p><p>我：。。。</p><p>确实有个故事，但还是以后再说吧。</p><blockquote><p>有句话是这么说的：1万个正确的考虑不如一个有缺点的行动。</p></blockquote><p>所以就这样，我仓促的准备好了，<strong>上路</strong>。</p><h2 id="关于学习"><a href="#关于学习" class="headerlink" title="关于学习"></a>关于学习</h2><p>我最喜欢的学习状态，就是<strong>认知被不断突破</strong>带来的爽感。那种原有认知碎一地的声音，能让你切切实实的感受到自己真的是在成长。大概像是一种<strong>肌肉撕裂</strong>的声音，感受得到的痛，感受得到的爽。</p><p>上周末的时候我参加了<strong>新精英生涯实战班</strong>的学习，虽然只有短短3天，但是我的大脑真的是要炸掉了。当不断的有大块大块的知识强行塞到这颗小小的脑子里面，你明明感觉到已经装不下了装不下了，但是还是要不停的汲取的时候，真的让人混乱和头大。晚上回到床上，我倒头就睡着了。</p><p>当太阳升起，新的一天来临，又是同样的冲击。在这一次次的冲击中，被强行拔高的认知，在一点点的和你的身体融为一体。这真的是一种很奇妙的感觉。让人很兴奋。</p><p>收获到你从来没有想过的问题，疏通了卡了几年都无法破除的卡点，那些自带能量和资源的人带给你的震撼，都让你深深的感受到知识的力量。这些都充满了魅力。</p><p>相对于知识来带的兴奋，人与人的链接更加奇妙。</p><p>他们的一言一行，都在无时无刻的影响着你，重新刻画着你对于既有书本上知识点的深刻理解。</p><blockquote><p>所以老师说，不管是心理咨询师，还是生涯咨询师，都是一种<strong>「用生命影响生命」</strong>的状态。</p></blockquote><p>对此我深有感触。</p><p>所以但凡体会过认知成长的人，大概这辈子都再也不会放弃<strong>学习</strong>了。《终身成长》大概就是如此。</p><h2 id="关于工作"><a href="#关于工作" class="headerlink" title="关于工作"></a>关于工作</h2><p>现在的时代已经再也不像十年前，为了工资为了温饱。工作带给人的，更多的是价值和成就感。特别是当周围充斥着95后，感觉更是如此。</p><p>我可以因为不喜欢一个工作而辞职，也可以因为喜欢一个工作而废寝忘食。所以我对工作的理解，更多的<strong>基于价值</strong>。</p><p>当然对于职业生涯的理解和探索，我不得不把我的老师<strong>古典</strong>搬出来了，<strong>「职业生涯三叶草」</strong>模型和<strong>「生涯四看」</strong>，助力我看清职业，看清自己。</p><p>所以对于这一部分的理解，出门右转 <strong><a href="https://www.xjy.cn/">新精英生涯</a></strong> ，带给你不一样的认知体验。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080258752.jpeg" alt="图片"></p><h2 id="关于生活"><a href="#关于生活" class="headerlink" title="关于生活"></a>关于生活</h2><p>生活上，因为自己的“<strong>折腾</strong>”，让生命多了更多的可能和视角，也让生命多了一些分外的精彩。和爱的人一起去发现更多的美好，我已经想不到比这个更酷的事情了。（当然，不能太贫穷啊啊）</p><p>安安稳稳，开开心心，是一种精彩；</p><p>见人，见事，见天地，是另外一种精彩；</p><p>偶尔周围有朋友会问，那你父母谁来照顾？</p><p>我回：<code>我有个哥，亲哥。在家</code>。</p><p>然后接下来基本就是享受朋友们投来的羡慕的目光了。</p><p>痛苦的是日益飙升的体重，和懒死都不愿意动一动的身体。</p><p><strong>over</strong></p><p>以后我也会分享更多关于职场-成长-阅读-历史的话题，喜欢可以关注我的公众号呀</p><hr><p><strong>- 文七刀 -</strong></p><p>原教培创业者，现互联网产品经理</p><p>喜欢阅读，喜欢思考，喜欢历史</p><p>渴求新知，喜欢不断打破自己认知边界的爽感，热爱成长</p><p>还喜欢折腾，希望通过折腾，成长为自己的样子</p><p>活出一个精彩绝伦的生命！</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="开始做公众号的第一天，给自己反思过往、改变生活的机会"><a href="#开始做公众号的第一天，给自己反思过往、改变生活的机会" class="headerlink" title="开始做公众号的第一天，给自己反思过往、改变生活的机会"></a>开始做公众号的第一天，给自己反思过往、改变生活的机会</h1><p>自离开校园，再也没有机会坐下来，慢慢的、认真的去记录一些什么，时间久了，竟也无法提笔诉说。</p><p>从2014年公众号红利期开始，我就随大流地注册了公众号，但是来来回回，竟然还是没有开始。</p><p>这已经是我第三次注册公众号了，也准备认真开始记录些什么。记录我未来的生活、兴趣，所思所想，传递我对生活的态度。</p><h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>第一篇，还是先做个自我介绍吧。</p><p>我叫文七刀。</p><p>有过几年的创业经历，现在是一家互联网的产品经理。过着<strong>表面一片祥和、内心却波澜壮阔</strong>的生活。</p><p>我的履历很简单。</p><p>但是却折腾了很久。</p><p>大概是我真的太喜欢<strong>折腾</strong>了。我喜欢在不同的城市生活、居住，用整个热情去体验每一个城市带给我的感受和不同，这让我感觉生命美好，万物可期。</p><p>这些年，走过的地方，受过的思想碰撞，让我无法停止自己的脚步。我的目光永远在前方，总感觉有无数的可能性在等待着我去发现，去体验，去感受，去领略。<strong>我既兴奋又痴迷。</strong></p><p>有时候我会特别羡慕周围的同事朋友，他们能在一个岗位上有十几年的积累和蓄势，这些都成为后来事业成功的基石。转而问问自己：“如果可以，你愿意吗？” 我又感觉自己好像受到了莫大的委屈。</p><p>所以，大概我最需要的不是羡慕他人的生活，而是梳理并悦纳自己吧。</p><h2 id="关于名字"><a href="#关于名字" class="headerlink" title="关于名字"></a>关于名字</h2><p>在注册公众号的前两天，我想了好多名字，但是都被注册了，我懊恼极了。</p><p>我也觉得一个人在这里懊恼是没有用的，所以我机智地拉上了董董董和猴哥一起痛苦，他们每天都在我的「威逼利诱」下不断在群里扔出来各种奇奇怪怪的名字，被我否了又否。</p><p>终于在第二天的晚上，我在群里丢了一个名字<strong>「文七刀」</strong>。</p><p>他们赶紧激动的问，这个名字有人注册吗？</p><p>我答没有。</p><p>然后就是一顿来自马屁式吹捧，“这个好，江湖侠气”，“对，<strong>七刀为切</strong>。文七刀，就是文切啊”，“对，就是文人的切磋，文切”，“好好好”，“不错不错”。。。</p><p>马屁之后问董董董问我怎么想出来的，有什么特别的寓意。</p><p>我：。。。</p><p>确实有个故事，但还是以后再说吧。</p><blockquote><p>有句话是这么说的：1万个正确的考虑不如一个有缺点的行动。</p></blockquote><p>所以就这样，我仓促的准备好了，<strong>上路</strong>。</p><h2 id="关于学习"><a href="#关于学习" class="headerlink" title="关于学习"></a>关于学习</h2><p>我最喜欢的学习状态，就是<strong>认知被不断突破</strong>带来的爽感。那种原有认知碎一地的声音，能让你切切实实的感受到自己真的是在成长。大概像是一种<strong>肌肉撕裂</strong>的声音，感受得到的痛，感受得到的爽。</p><p>上周末的时候我参加了<strong>新精英生涯实战班</strong>的学习，虽然只有短短3天，但是我的大脑真的是要炸掉了。当不断的有大块大块的知识强行塞到这颗小小的脑子里面，你明明感觉到已经装不下了装不下了，但是还是要不停的汲取的时候，真的让人混乱和头大。晚上回到床上，我倒头就睡着了。</p><p>当太阳升起，新的一天来临，又是同样的冲击。在这一次次的冲击中，被强行拔高的认知，在一点点的和你的身体融为一体。这真的是一种很奇妙的感觉。让人很兴奋。</p><p>收获到你从来没有想过的问题，疏通了卡了几年都无法破除的卡点，那些自带能量和资源的人带给你的震撼，都让你深深的感受到知识的力量。这些都充满了魅力。</p><p>相对于知识来带的兴奋，人与人的链接更加奇妙。</p><p>他们的一言一行，都在无时无刻的影响着你，重新刻画着你对于既有书本上知识点的深刻理解。</p><blockquote><p>所以老师说，不管是心理咨询师，还是生涯咨询师，都是一种<strong>「用生命影响生命」</strong>的状态。</p></blockquote><p>对此我深有感触。</p><p>所以但凡体会过认知成长的人，大概这辈子都再也不会放弃<strong>学习</strong>了。《终身成长》大概就是如此。</p><h2 id="关于工作"><a href="#关于工作" class="headerlink" title="关于工作"></a>关于工作</h2><p>现在的时代已经再也不像十年前，为了工资为了温饱。工作带给人的，更多的是价值和成就感。特别是当周围充斥着95后，感觉更是如此。</p><p>我可以因为不喜欢一个工作而辞职，也可以因为喜欢一个工作而废寝忘食。所以我对工作的理解，更多的<strong>基于价值</strong>。</p><p>当然对于职业生涯的理解和探索，我不得不把我的老师<strong>古典</strong>搬出来了，<strong>「职业生涯三叶草」</strong>模型和<strong>「生涯四看」</strong>，助力我看清职业，看清自己。</p><p>所以对于这一部分的理解，出门右转 <strong><a href="https://www.xjy.cn/">新精英生涯</a></strong> ，带给你不一样的认知体验。</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306080258752.jpeg" alt="图片"></p><h2 id="关于生活"><a href="#关于生活" class="headerlink" title="关于生活"></a>关于生活</h2><p>生活上，因为自己的“<strong>折腾</strong>”，让生命多了更多的可能和视角，也让生命多了一些分外的精彩。和爱的人一起去发现更多的美好，我已经想不到比这个更酷的事情了。（当然，不能太贫穷啊啊）</p><p>安安稳稳，开开心心，是一种精彩；</p><p>见人，见事，见天地，是另外一种精彩；</p><p>偶尔周围有朋友会问，那你父母谁来照顾？</p><p>我回：<code>我有个哥，亲哥。在家</code>。</p><p>然后接下来基本就是享受朋友们投来的羡慕的目光了。</p><p>痛苦的是日益飙升的体重，和懒死都不愿意动一动的身体。</p><p><strong>over</strong></p><p>以后我也会分享更多关于职场-成长-阅读-历史的话题，喜欢可以关注我的公众号呀</p><hr><p><strong>- 文七刀 -</strong></p><p>原教培创业者，现互联网产品经理</p><p>喜欢阅读，喜欢思考，喜欢历史</p><p>渴求新知，喜欢不断打破自己认知边界的爽感，热爱成长</p><p>还喜欢折腾，希望通过折腾，成长为自己的样子</p><p>活出一个精彩绝伦的生命！</p>]]></content>
     
     
     <summary type="html">开始做公众号的第一天，给自己反思过往、改变生活的机会
@@ -484,12 +484,12 @@ mac 电脑系统 10.15 </summary>
   
   <entry>
     <title>在 macOS 系统中，每次操作都需要 sudo 命令来提高权限，怎么解决？</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20200104-sudo-permissions/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20200104-sudo-permissions/</id>
+    <link href="https://blog.baduyifei.com/p/20200104-sudo-permissions/"/>
+    <id>https://blog.baduyifei.com/p/20200104-sudo-permissions/</id>
     <published>2020-01-04T12:24:21.000Z</published>
     <updated>2020-01-03T16:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="在-macOS-系统中，每次操作都需要-sudo-命令来提高权限，怎么解决？"><a href="#在-macOS-系统中，每次操作都需要-sudo-命令来提高权限，怎么解决？" class="headerlink" title="在 macOS 系统中，每次操作都需要 sudo 命令来提高权限，怎么解决？"></a>在 macOS 系统中，每次操作都需要 sudo 命令来提高权限，怎么解决？</h1><p>在 macOS 系统中,每次操作都需要 sudo 命令来提高权限，这确实很麻烦。 </p><p>有两种方法可以解决这个问题:</p><h2 id="方法一：修改文件或目录权限"><a href="#方法一：修改文件或目录权限" class="headerlink" title="方法一：修改文件或目录权限"></a>方法一：修改文件或目录权限</h2><p>您可以使用 chmod 命令给文件或目录赋予适当的权限,使当前用户也有权限进行操作。</p><p>例如,给 <code> 该目录</code> 赋予读写权限:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo chmod 777 文件夹名字</span><br></pre></td></tr></table></figure><p>然后您就可以直接进行操作了。</p><h2 id="方法二：使用-sudo-su-切换到-root-用户"><a href="#方法二：使用-sudo-su-切换到-root-用户" class="headerlink" title="方法二：使用 sudo su 切换到 root 用户"></a>方法二：使用 sudo su 切换到 root 用户</h2><p>输入 <code>sudo su</code> 命令，系统会提示输入密码，然后就会切换到 root 超级用户。在 root 用户环境下,您可以执行任何命令而不需要 sudo。</p><p>命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo su</span><br></pre></td></tr></table></figure><p>如下图：现在提示符变成 #,表示已经是 root 用户，然后您就可以直接进行操作了</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306031049944.png" alt="img"></p><p>如果要从 root 用户退出，切回到普通用户：输入 <code>exit</code> 或按 <code>Ctrl + D</code> </p><blockquote><p>以上两种方法可以避免每次命令都输入 sudo，提高操作效率。</p><p>但要注意，root 用户权限较高，操作时请格外小心。</p><p>建议只在必要时临时使用 root 权限，日常操作仍使用普通用户权限。</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="在-macOS-系统中，每次操作都需要-sudo-命令来提高权限，怎么解决？"><a href="#在-macOS-系统中，每次操作都需要-sudo-命令来提高权限，怎么解决？" class="headerlink" title="在 macOS 系统中，每次操作都需要 sudo 命令来提高权限，怎么解决？"></a>在 macOS 系统中，每次操作都需要 sudo 命令来提高权限，怎么解决？</h1><p>在 macOS 系统中,每次操作都需要 sudo 命令来提高权限，这确实很麻烦。 </p><p>有两种方法可以解决这个问题:</p><h2 id="方法一：修改文件或目录权限"><a href="#方法一：修改文件或目录权限" class="headerlink" title="方法一：修改文件或目录权限"></a>方法一：修改文件或目录权限</h2><p>您可以使用 chmod 命令给文件或目录赋予适当的权限,使当前用户也有权限进行操作。</p><p>例如,给 <code> 该目录</code> 赋予读写权限:</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo chmod 777 文件夹名字</span><br></pre></td></tr></table></figure><p>然后您就可以直接进行操作了。</p><h2 id="方法二：使用-sudo-su-切换到-root-用户"><a href="#方法二：使用-sudo-su-切换到-root-用户" class="headerlink" title="方法二：使用 sudo su 切换到 root 用户"></a>方法二：使用 sudo su 切换到 root 用户</h2><p>输入 <code>sudo su</code> 命令，系统会提示输入密码，然后就会切换到 root 超级用户。在 root 用户环境下,您可以执行任何命令而不需要 sudo。</p><p>命令：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo su</span><br></pre></td></tr></table></figure><p>如下图：现在提示符变成 #,表示已经是 root 用户，然后您就可以直接进行操作了</p><p><img src="https://wenqidao.oss-cn-shanghai.aliyuncs.com/img/202306031049944.png" alt="img"></p><p>如果要从 root 用户退出，切回到普通用户：输入 <code>exit</code> 或按 <code>Ctrl + D</code> </p><blockquote><p>以上两种方法可以避免每次命令都输入 sudo，提高操作效率。</p><p>但要注意，root 用户权限较高，操作时请格外小心。</p><p>建议只在必要时临时使用 root 权限，日常操作仍使用普通用户权限。</p></blockquote>]]></content>
     
     
     <summary type="html">在 macOS 系统中，每次操作都需要 sudo 命令来提高权限，怎么解决？
@@ -502,9 +502,9 @@ mac 电脑系统 10.15 </summary>
     
     
     
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    <category term="tag1" scheme="https://blog.baduyifei.com/tags/tag1/"/>
     
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    <category term="tag2" scheme="https://blog.baduyifei.com/tags/tag2/"/>
     
   </entry>
   
