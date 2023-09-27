@@ -23,41 +23,14 @@
     <published>2023-09-17T00:00:00.000Z</published>
     <updated>2023-09-17T00:00:00.000Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的音乐列表"><a href="#我的音乐列表" class="headerlink" title="我的音乐列表"></a>我的音乐列表</h1><p>王菲：如愿<br>萨顶顶：左手指月<br>张学友：烦恼歌<br>李建：月半弯<br>汉堡黄：滥俗的歌<br>王贰浪：小镇英雄青年<br>孙耀威：爱的故事<br>唐伯虎Annie：青丝<br>世间美好与你环环相扣<br>球球：0919、宠爱吖<br>董小姐日语版<br>GALA：追梦赤子心<br>萌萌哒天团：动心<br>温柔乡<br>去你的撩妹即正义<br>陈琳：爱就爱了<br>草蜢：失恋阵线联盟<br>夏天：小宝贝<br>罗大佑：恋曲1990<br>谢雨欣：仰望<br>周深：胆小鬼<br>陈百强：偏偏喜欢你<br>蔡卓妍：明明<br>乌达木：梦中的额吉<br>叶倩文：潇洒走一回<br>谢金燕：男欢女爱<br>洪金宝：爷爷的情书<br>宇多田光：prisoner of Love<br>王若琳：Lomon tree</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="我的音乐列表"><a href="#我的音乐列表" class="headerlink" title="我的音乐列表"></a>我的音乐列表</h1><p>王菲：如愿<br>萨顶顶：左手指月<br>张学友：烦恼歌<br>李建：月半弯<br>汉堡黄：滥俗的歌<br>王贰浪：小镇英雄青年<br>孙耀威：爱的故事</p> <span id="more"></span><p>唐伯虎Annie：青丝<br>世间美好与你环环相扣<br>球球：0919、宠爱吖<br>董小姐日语版<br>GALA：追梦赤子心<br>萌萌哒天团：动心<br>温柔乡<br>去你的撩妹即正义<br>陈琳：爱就爱了<br>草蜢：失恋阵线联盟<br>夏天：小宝贝<br>罗大佑：恋曲1990<br>谢雨欣：仰望<br>周深：胆小鬼<br>陈百强：偏偏喜欢你<br>蔡卓妍：明明<br>乌达木：梦中的额吉<br>叶倩文：潇洒走一回<br>谢金燕：男欢女爱<br>洪金宝：爷爷的情书<br>宇多田光：prisoner of Love<br>王若琳：Lomon tree</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-pure/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog-pure/assets/js</summary>
-      
+    <summary type="html">&lt;h1 id=&quot;我的音乐列表&quot;&gt;&lt;a href=&quot;#我的音乐列表&quot; class=&quot;headerlink&quot; title=&quot;我的音乐列表&quot;&gt;&lt;/a&gt;我的音乐列表&lt;/h1&gt;&lt;p&gt;王菲：如愿&lt;br&gt;萨顶顶：左手指月&lt;br&gt;张学友：烦恼歌&lt;br&gt;李建：月半弯&lt;br&gt;汉堡黄：滥俗的歌&lt;br&gt;王贰浪：小镇英雄青年&lt;br&gt;孙耀威：爱的故事&lt;/p&gt;</summary>
     
     
     
     <category term="code" scheme="https://baduyifei.github.io/blog-pure/categories/code/"/>
-    
-    
-    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
-    
-    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何实现同一台电脑当中的两个文件夹同步？</title>
-    <link href="https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/"/>
-    <id>https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/</id>
-    <published>2023-09-14T09:24:21.000Z</published>
-    <updated>2023-09-13T16:00:00.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何实现同一台电脑当中的两个文件夹同步？"><a href="#如何实现同一台电脑当中的两个文件夹同步？" class="headerlink" title="如何实现同一台电脑当中的两个文件夹同步？"></a>如何实现同一台电脑当中的两个文件夹同步？</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-pure/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog-pure/assets/js</summary>
-      
-    
-    
     
     
     <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
@@ -74,6 +47,30 @@
     <updated>2023-09-13T16:00:00.000Z</updated>
     
     <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="mac系统「复制、拷贝、替身、软连接、硬连接」区别详解"><a href="#mac系统「复制、拷贝、替身、软连接、硬连接」区别详解" class="headerlink" title="mac系统「复制、拷贝、替身、软连接、硬连接」区别详解"></a>mac系统「复制、拷贝、替身、软连接、硬连接」区别详解</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/blog-pure/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/blog-pure/assets/js</summary>
+      
+    
+    
+    
+    
+    <category term="tag1" scheme="https://baduyifei.github.io/blog-pure/tags/tag1/"/>
+    
+    <category term="tag2" scheme="https://baduyifei.github.io/blog-pure/tags/tag2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何实现同一台电脑当中的两个文件夹同步？</title>
+    <link href="https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/"/>
+    <id>https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/</id>
+    <published>2023-09-14T09:24:21.000Z</published>
+    <updated>2023-09-13T16:00:00.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/blog-pure/assets/css/APlayer.min.css"><script src="/blog-pure/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="如何实现同一台电脑当中的两个文件夹同步？"><a href="#如何实现同一台电脑当中的两个文件夹同步？" class="headerlink" title="如何实现同一台电脑当中的两个文件夹同步？"></a>如何实现同一台电脑当中的两个文件夹同步？</h1>]]></content>
     
     
       

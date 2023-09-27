@@ -1,6 +1,6 @@
 https://baduyifei.github.io/blog-pure/p/20230913-my-playlist-abbrlink/
-https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/
 https://baduyifei.github.io/blog-pure/p/20230914-difference-copy-softconnection-hardconnection/
+https://baduyifei.github.io/blog-pure/p/20230914-folder-synchronization-in-one-computer/
 https://baduyifei.github.io/blog-pure/p/20230612-my-software-summary/
 https://baduyifei.github.io/blog-pure/p/20230611-chrome-software-summary/
 https://baduyifei.github.io/blog-pure/p/20230610-mac-software-summary/
@@ -11,8 +11,8 @@ https://baduyifei.github.io/blog-pure/about/index.html
 https://baduyifei.github.io/blog-pure/p/20230605-summarize-personal-blogs/
 https://baduyifei.github.io/blog-pure/p/20230602-signingKeys-authenticationKeys/
 https://baduyifei.github.io/blog-pure/p/20230601-nodejs-npm-nvm/
-https://baduyifei.github.io/blog-pure/p/20230601-shell-bash-zsh/
 https://baduyifei.github.io/blog-pure/p/20230601-pipenv/
+https://baduyifei.github.io/blog-pure/p/20230601-shell-bash-zsh/
 https://baduyifei.github.io/blog-pure/p/20230531-vim-deletehotkey/
 https://baduyifei.github.io/blog-pure/p/20200709-morning-diary/
 https://baduyifei.github.io/blog-pure/p/20200618-laugh-out-loud/
