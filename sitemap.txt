@@ -10,8 +10,8 @@ https://baduyifei.github.io/blogpure/p/20230608-night-watcher-swear/
 https://baduyifei.github.io/blogpure/about/index.html
 https://baduyifei.github.io/blogpure/p/20230605-summarize-personal-blogs/
 https://baduyifei.github.io/blogpure/p/20230602-signingKeys-authenticationKeys/
-https://baduyifei.github.io/blogpure/p/20230601-pipenv/
 https://baduyifei.github.io/blogpure/p/20230601-nodejs-npm-nvm/
+https://baduyifei.github.io/blogpure/p/20230601-pipenv/
 https://baduyifei.github.io/blogpure/p/20230601-shell-bash-zsh/
 https://baduyifei.github.io/blogpure/p/20230531-vim-deletehotkey/
 https://baduyifei.github.io/blogpure/p/20200709-morning-diary/
