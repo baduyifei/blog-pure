@@ -1,3 +1,6 @@
+https://blog.baduyifei.com/p/20230930-reflections-by-the-wechat-quarrel/
+https://blog.baduyifei.com/manifest.json
+https://blog.baduyifei.com/favicon/README.html
 https://blog.baduyifei.com/p/20230913-my-playlist-abbrlink/
 https://blog.baduyifei.com/p/20230914-difference-copy-softconnection-hardconnection/
 https://blog.baduyifei.com/p/20230914-folder-synchronization-in-one-computer/
@@ -27,4 +30,5 @@ https://blog.baduyifei.com/tags/tag1/
 https://blog.baduyifei.com/tags/tag2/
 https://blog.baduyifei.com/tags/blog/
 https://blog.baduyifei.com/tags/cool/
+https://blog.baduyifei.com/tags/%E7%94%9F%E6%B4%BB/
 https://blog.baduyifei.com/categories/code/
